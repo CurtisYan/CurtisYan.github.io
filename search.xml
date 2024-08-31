@@ -1,6 +1,360 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Welcome，在这里你可以初步认识我</title>
+    <url>/2024/08/31/about/</url>
+    <content><![CDATA[<p><a class="btn aright " href="/en/about"><i class="fa-regular fa-language "></i></a></p>
+<style>
+h1 {
+    border-bottom: none !important;
+}
+.aright {
+    float: right;
+    font-size: 1em;
+    padding: 2px 10px !important;
+    margin-top: 10px;
+}
+</style>
+
+<h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><blockquote>
+<p>  在访问别人博客的时候，我经常去看别人的“关于”页面，所以我自己的博客，当然要有一个关于页面。于是我把关于页面放在首页。<br>玩博客，难免会涉及到生活、计算机、编程、技巧、域名等等，作为技术爱好，把自己折腾这些的过程写下来，既是自己的备忘录，也许也可以给其他人提供点参考。<br>作为一个佛系博主，不在乎多少的访问量，不在乎多少的广告收益，没有任何压力。<br>嗯，说写就写。</p>
+</blockquote>
+<h2 id="对博客的理解"><a href="#对博客的理解" class="headerlink" title="对博客的理解"></a>对博客的理解</h2><hr>
+<p>2023年，我开始接触计算机相关，开始自己尝试做项目，每个项目需要用到大量第三方资源，也越来越多的去使用github去需找开源项目，大量的代码节省了我很多时间，也慢慢的找到了分享的感觉。</p>
+<p>每个攻城狮都应该有一个自己的技术博客，在网络中的文章帮助你节约了时间和提供帮助的同时，也想着自己写一些文章去分享知识，程序员应该学会分享。分享还有个好处是激发自己对每个知识点的深入研究以及加深自己对知识点的理解和记忆。</p>
+<p>目前在广州，有空可以来找我玩</p>
+<p><small>本博客80%为原创，20%来自于网络文章</small></p>
+<h2 id="博客中的技术类型"><a href="#博客中的技术类型" class="headerlink" title="博客中的技术类型"></a>博客中的技术类型</h2><hr>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310150831.jpeg"
+                       width="400" 
+                >
+
+
+<p>我叫江南易，一个萌新程序员，同时也是一名交易员。技术上熟悉Java，Web前端，Python，数据结构。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。</p>
+<ul>
+<li>Java </li>
+<li>   Web前端</li>
+<li>Python</li>
+<li>数据结构</li>
+<li>C# 会写一些</li>
+<li>其他（数据库，网站部署，博客建站，个人生活，虚拟货币交易等会少量涉及）</li>
+</ul>
+<h2 id="博客更新频率"><a href="#博客更新频率" class="headerlink" title="博客更新频率"></a>博客更新频率</h2><hr>
+<p>不定时更新吧，每天忙于学习。</p>
+<h2 id="博客中示例程序代码下载："><a href="#博客中示例程序代码下载：" class="headerlink" title="博客中示例程序代码下载："></a>博客中示例程序代码下载：</h2><hr>
+<ul>
+<li>   <a class="link"   href="https://github.com/CurtisYan/Java-demo" >java demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>   <a class="link"   href="https://github.com/CurtisYan/Python-demo" >python demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><hr>
+<p>本站基于Hexo Redefine主题搭建而成，<br>若想搭建同款博客，请点击导航栏 关于 &gt; <a class="link"   href="https://redefine-docs.ohevan.com/" >Redefine-Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，进行搭建。</p>
+<p>如果有问题可以直接评论,或是给我发邮件。如果觉得对你有所帮助，就给我点个赞或是<a class="link"   href="https://github.com/CurtisYan/" >github上follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。谢谢大家的支持。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>CS2地图最新中文报点大全！</title>
+    <url>/2024/08/31/game/2024-06-21-CS2%20map%20Chinese%20point%20name%20/</url>
+    <content><![CDATA[<h1 id="CS2最新全图报点，细节超全！"><a href="#CS2最新全图报点，细节超全！" class="headerlink" title="CS2最新全图报点，细节超全！"></a>CS2最新全图报点，细节超全！</h1><p>学习CS2的报点跟练习瞄准一样重要。既然你每天都玩这些地图，所以学起来应该更简单。</p>
+<p>为什么要记住地图报点？</p>
+<p>因为你需要和队友快速交换敌人的位置信息，这样有两个好处，首先，局部范围内的队友能够马上完成配合，例如迅速补枪，其次，敌人所在位置信息越多，越有利于整体上判断对方的进攻&#x2F;防守动态。</p>
+<p>掌握地图报点是打好FPS游戏的基础。在我小时候在网吧里打CS的那个年代，地图上关键位置就已经有了起名的传统了。</p>
+<p>下面是我为你总结的CS2竞技地图池的最新的中文报点。建议收藏！</p>
+<p><a href="#inferno">炼狱小镇 &#x3D; Inferno</a>,  <a href="#mirage">荒漠迷城 &#x3D; Mirage</a>,  <a href="#nuke">核子危机 &#x3D;Nuke</a>,  <a href="#overpass">死亡游乐园 &#x3D; Overpass</a>,  <a href="#vertigo">殒命大厦 &#x3D; Vertigo</a>,  <a href="#ancient">远古遗迹 &#x3D; Ancient</a>,  <a href="#anubis">阿努比斯 &#x3D; Anubis</a>,  <a href="#dust">炙热沙城Ⅱ &#x3D; Dust2&#x3D; 沙2</a></p>
+<h3 id="炼狱小镇"><a href="#炼狱小镇" class="headerlink" title="炼狱小镇 "></a>炼狱小镇 <a id = "inferno"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png"
+                      alt="Inferno-2"
+                ><figcaption>Inferno-2</figcaption></figure></p>
+<h3 id="荒漠迷城"><a href="#荒漠迷城" class="headerlink" title="荒漠迷城 "></a>荒漠迷城 <a id = "mirage"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936326.png"
+                      alt="Mirage-2"
+                ><figcaption>Mirage-2</figcaption></figure></p>
+<h3 id="核子危机"><a href="#核子危机" class="headerlink" title="核子危机 "></a>核子危机 <a id = "nuke"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936823.png"
+                      alt="Nuke-2"
+                ><figcaption>Nuke-2</figcaption></figure></p>
+<h3 id="死亡游乐园"><a href="#死亡游乐园" class="headerlink" title="死亡游乐园 "></a>死亡游乐园 <a id = "overpass"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936674.png"
+                      alt="Overpass-2"
+                ><figcaption>Overpass-2</figcaption></figure></p>
+<h3 id="殒命大厦"><a href="#殒命大厦" class="headerlink" title="殒命大厦 "></a>殒命大厦 <a id = "vertigo"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938304.png"
+                      alt="Vertigo-2"
+                ><figcaption>Vertigo-2</figcaption></figure></p>
+<h3 id="远古遗迹"><a href="#远古遗迹" class="headerlink" title="远古遗迹 "></a>远古遗迹 <a id = "ancient"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938548.png"
+                      alt="Ancient-2"
+                ><figcaption>Ancient-2</figcaption></figure></p>
+<h3 id="阿努比斯"><a href="#阿努比斯" class="headerlink" title="阿努比斯 "></a>阿努比斯 <a id = "anubis"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938500.png"
+                      alt="Anubis-2"
+                ><figcaption>Anubis-2</figcaption></figure></p>
+<h3 id="炙热沙城Ⅱ"><a href="#炙热沙城Ⅱ" class="headerlink" title="炙热沙城Ⅱ "></a>炙热沙城Ⅱ <a id = "dust"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938836.png"
+                      alt="Dust2-2"
+                ><figcaption>Dust2-2</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>cs, map</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CS2地图最新英文报点大全！</title>
+    <url>/2024/08/31/game/2024-06-21-CS2%20map%20English%20point%20name/</url>
+    <content><![CDATA[<h2 id="CS2地图最新英文报点大全！"><a href="#CS2地图最新英文报点大全！" class="headerlink" title="CS2地图最新英文报点大全！"></a>CS2地图最新英文报点大全！</h2><p>如果你经常打国际服、Faceit等国际平台，记住英文地图报点非常重要！</p>
+<p>下面是我为你总结的CS2竞技地图池的最新的英文报点。建议收藏！</p>
+<p>如果你需要中文报点，请点击这个链接查看<a class="link"   href="https://www.asiay.asia/2024/06/21/CS2-map-Chinese-point-name.html" >《CS2最新全图报点， <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><a class="link"   href="https://www.asiay.asia/2024/06/21/CS2-map-Chinese-point-name.html" >细节超全！》 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><a href="#inferno">炼狱小镇 &#x3D; Inferno</a>,  <a href="#mirage">荒漠迷城 &#x3D; Mirage</a>,  <a href="#nuke">核子危机 &#x3D;Nuke</a>,  <a href="#overpass">死亡游乐园 &#x3D; Overpass</a>,  <a href="#vertigo">殒命大厦 &#x3D; Vertigo</a>,  <a href="#ancient">远古遗迹 &#x3D; Ancient</a>,  <a href="#anubis">阿努比斯 &#x3D; Anubis</a>,  <a href="#dust">炙热沙城Ⅱ &#x3D; Dust2&#x3D; 沙2</a></p>
+<h3 id="Inferno"><a href="#Inferno" class="headerlink" title="Inferno "></a>Inferno <a id = "inferno"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211923485.png"
+                      alt="Inferno-2"
+                ><figcaption>Inferno-2</figcaption></figure></p>
+<h3 id="Mirage"><a href="#Mirage" class="headerlink" title="Mirage "></a>Mirage <a id = "mirage"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928658.png"
+                      alt="Mirage-2"
+                ><figcaption>Mirage-2</figcaption></figure></p>
+<h3 id="Nuke"><a href="#Nuke" class="headerlink" title="Nuke "></a>Nuke <a id = "nuke"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928307.png"
+                      alt="Nuke-2"
+                ><figcaption>Nuke-2</figcaption></figure></p>
+<h3 id="Overpass"><a href="#Overpass" class="headerlink" title="Overpass "></a>Overpass <a id = "overpass"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928359.png"
+                      alt="Overpass-2"
+                ><figcaption>Overpass-2</figcaption></figure></p>
+<h3 id="Vertigo"><a href="#Vertigo" class="headerlink" title="Vertigo "></a>Vertigo <a id = "vertigo"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928179.png"
+                      alt="Vertigo-2"
+                ><figcaption>Vertigo-2</figcaption></figure></p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928928.png"
+                      alt="Vertigo-2-down"
+                ><figcaption>Vertigo-2-down</figcaption></figure></p>
+<h3 id="Ancient"><a href="#Ancient" class="headerlink" title="Ancient "></a>Ancient <a id = "ancient"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928464.png"
+                      alt="Ancient-2"
+                ><figcaption>Ancient-2</figcaption></figure></p>
+<h3 id="Anubis"><a href="#Anubis" class="headerlink" title="Anubis "></a>Anubis <a id = "anubis"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211929456.png"
+                      alt="Anubis-2"
+                ><figcaption>Anubis-2</figcaption></figure></p>
+<h3 id="Dust2"><a href="#Dust2" class="headerlink" title="Dust2 "></a>Dust2 <a id = "dust"></a></h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211929333.png"
+                      alt="Dust2-2"
+                ><figcaption>Dust2-2</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>cs, map</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的CS设置</title>
+    <url>/2024/08/31/game/2024-06-21-myCS_setting/</url>
+    <content><![CDATA[<blockquote>
+<p>我是20年入坑的CSGO，很幸运，那时送了优先账户，我那时把大部分精力用在校园生活中，很少打CS，也不懂啥大行动，major通行证，勋章啥的，错过了很多东西，给我留下了遗憾，就像现在谁能想到蝴蝶刀价格暴涨。<br>第二段经历则是23年我高三时，备战高考，却受班级风气的影响迷恋上了CS，我开始练枪、开始学习道具、看直播、上b站学习，开始用buff花20块钱配了全套皮肤，其中不乏几毛几分的皮肤，也买了人生中第一把刀皮，现在这些皮肤对我来说弥足珍贵，也代表着我对这个游戏的热爱。<br>高考后，我没日没夜地玩CS，经常通宵达旦地打完美天梯，买电脑前我还天天泡网吧，一泡就是一下午。当时网吧的大屏幕和良好的游戏氛围让我一度陷入其中无法自拔，也正式开始了我的CS之路。<br>我写这篇文章旨在记录我的CS配置经验与设置。</p>
+</blockquote>
+<h1 id="基础设置与指令"><a href="#基础设置与指令" class="headerlink" title="基础设置与指令"></a>基础设置与指令</h1><h3 id="推荐准星"><a href="#推荐准星" class="headerlink" title="推荐准星"></a>推荐准星</h3><p>代码：</p>
+<p><code>CSGO-D2vJL-VGer3-FPEtz-JttQd-97DRE</code>（十字）<br><code>CSGO-qFLSa-CQS6a-aJWKN-QZNPC-LSJvM</code>（绿圆形）<br><code>CSGO-daEbe-dMEpY-7qzen-ECUyG-sjwjN</code>（小圆点）<br><code>CSGO-VDaMd-xedXq-kpWmd-aNv9e-KxQRO</code>（极小圆点）<br><code>CSGO-xStGr-MyZVQ-QDeJV-zYGxW-wOJvM</code>（黄小圆形）<br><code>CSGO-jQx5T-f7moo-kwd7v-om3hc-RMQNN</code>（donk小十字）    </p>
+<blockquote>
+<p>分辨率：1920*1440  </p>
+<p>dpi：800*1.25，狙0.83  </p>
+<p>m_yaw 0.0165</p>
+</blockquote>
+<h3 id="基础指令"><a href="#基础指令" class="headerlink" title="基础指令"></a>基础指令</h3><p>枪口抖动关闭指令：<code>Viewmodel_recoil 0</code></p>
+<p>看FPS：<code>net_graph 1</code></p>
+<hr>
+<p>CSGO旧指令：</p>
+<p>关闭手臂抖动：<code>cl_bob_lower_amt 5</code> （默认21）</p>
+<p>F键清除血迹指令：<code>bind f &quot;+lookatweapon; r_cleardecals&quot;</code></p>
+<p>SHIFT清除血迹指令：<code>bind shift &quot;+speed;r_cleardecals&quot;</code></p>
+<p>CTRL清除血迹指令：<code>bind &quot;ctrl&quot; &quot;+duck;r_cleardecals&quot;</code></p>
+<p>开枪后清除血迹指令：<code>bind MOUSE1 &quot;+attack;r_cleardecals&quot; </code></p>
+<hr>
+<h5 id="一键跳投"><a href="#一键跳投" class="headerlink" title="一键跳投"></a>一键跳投</h5><p>1.steam cs2 右键管理浏览本地文件 路径 game -csgo-cfg</p>
+<p>2.创建一个文本文档名字autoexec后缀改成.cfg</p>
+<p>把这段复制进去</p>
+<p>alias +jp “+jump;-jump”</p>
+<p>alias +ak “-attack;-attack2”</p>
+<p>然后保存</p>
+<p>3.打开cs2指令台输bind c “+jp;+ak”</p>
+<p>这个c就是一键跳投，你习惯啥键就绑啥键</p>
+<p>换手指令：<code>bindtoggle &quot;v&quot; &quot;cl_righthand&quot; 0 1</code> <small>设置中可以更改</small></p>
+<p>持枪视角1：<code>viewmodel_fov68;viewmodel_offset_x2;viewmodel_offset_y 2;viewmodel_offset_z-2;viewmodel_presetpos 0;</code></p>
+<p>持枪视角2：<code>Viewmodel_fov 68;Viewmodel_offset_x 2.5;Viewmodel_offset_y 2.0;Viewmodel_offset_z -1.7;Viewmodel_presetpos 0</code></p>
+<p>滚轮跳：<code>bind mwheeldown +jump</code></p>
+<p>关闭曳光弹：<code>r_drawtracers_firstperson 0</code></p>
+<p>手臂晃动开启：<code>cl_usenewbob 1</code>   <small>CS2开启手臂晃动实际体验更舒服</small></p>
+<p>一键静音：<code>bind 任意键 &quot;toggle voice_modenable 1 0&quot;</code>  <small>残局专用，<small>设置中可以更改</small></small></p>
+<p><strong>CS2的4:3拉伸手感不对一定要改的指令：</strong><code>m_yaw 0.0165</code> <small>默认是0.022，csgo时期没改过的就别改了</small></p>
+<p>像W跳投，快捷丢刀，滚轮跳等都可以在完美平台中设置<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231622256.png"
+                      alt="完美按钮设置" style="zoom: 50%;" 
+                ><figcaption>完美按钮设置</figcaption></figure><br><br></p>
+<h3 id="跑图指令"><a href="#跑图指令" class="headerlink" title="跑图指令"></a>跑图指令</h3><p>*号开启，F1变蝴蝶刀，F3飞天</p>
+<br>
+跑图必备指令↓，包括，无限金钱，无限血量，无限道具
+复制输入到控制台后，按*启动。   
+<small>丢刀后，对准刀按F1切换为蝴蝶刀，F3开启飞行</small>
+<details>
+<summary>展开查看</summary>
+bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;";bind "kp_multiply" "sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;"</details>  
+<br>
+
+<p>按J重复上一次道具：<code>bind &quot;j&quot; sv_rethrow_last_grenade</code></p>
+<p>（0）踢出bot</p>
+<p>（1，2）是增加bot</p>
+<p>（3）将bot放在指定位置</p>
+<p>（4）bot蹲（7）bot站</p>
+<p>（5）模仿镜像</p>
+<p>（6）模仿同向</p>
+<p><code>bind kp_0 &quot;bot_kick&quot;;</code></p>
+<p><code>bind KP_1 &quot;bot_add_t&quot;;</code></p>
+<p><code>bind KP_2 &quot;bot_add_CT&quot;;</code></p>
+<p><code>bind KP_3 &quot;bot_place 1&quot;;</code></p>
+<p><code>bot_stop 1;</code></p>
+<p><code>bind KP_4 &quot;bot_crouch 1&quot;;</code></p>
+<p><code>bind KP_7 &quot;bot_crouch 0&quot;;</code></p>
+<p><code>bot_mimic 1;</code></p>
+<p><code>bind KP_5&quot;bot_mimic_yaw_offset 180&quot;;</code></p>
+<p><code>bind KP_6 &quot;bot_mimic_yaw_offset 0&quot;;</code></p>
+<h3 id="练枪图指令："><a href="#练枪图指令：" class="headerlink" title="练枪图指令："></a>练枪图指令：</h3><p><small><small>用于练枪图随机刷新失效情况下</small></small></p>
+<p>按照顺序输入</p>
+<p>指令1: <code>mp_randomspawn 1</code>随机刷新</p>
+<p>指令2: <code>mp_restartgame 1</code> 重开游戏</p>
+<h3 id="快捷更换CS设置的方法（730文件夹）"><a href="#快捷更换CS设置的方法（730文件夹）" class="headerlink" title="快捷更换CS设置的方法（730文件夹）"></a>快捷更换CS设置的方法（730文件夹）</h3><p>当我们玩别人号时，为了获得良好的游戏体验。总要调回自己的设置调半天，但是只要把cs里面存放设置cfg文件的文件夹保存下来即可快捷换号。</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231711364.png"
+                      alt="730"
+                ><figcaption>730</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>cs,setting</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>禁止QQ音乐后台上传</title>
+    <url>/2024/08/31/tech/2024-06-13-Forbid%20QQMusic%20background%20upload/</url>
+    <content><![CDATA[<blockquote>
+<p>  最近发现QQ音乐在后台偷跑上传，网络上有的人甚至被偷跑了2TB的流量，这节省的CDN流量都足够换几百块了，能买一两年的QQ会员了。<br>以下是禁止QQ音乐P2P上传的方法：<br>&nbsp;</p>
+</blockquote>
+<h3 id="1、打开任意文件夹，在地址栏输入："><a href="#1、打开任意文件夹，在地址栏输入：" class="headerlink" title="1、打开任意文件夹，在地址栏输入："></a>1、打开任意文件夹，在地址栏输入：</h3><p>C:\Users%USERNAME%\AppData\Roaming\Tencent\QQMusic\QQMusicCache  </p>
+<p>如果你在Q音里自定义了缓存存放目录，请在Q音设置里打开QQMusicCache文件夹，如图：</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131658681.png"
+                      alt="QQMusicCache" title="QQMusicCache"
+                ><figcaption>QQMusicCache</figcaption></figure></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">QQMusicCache</center> 
+<br>
+
+<h3 id="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"><a href="#2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹" class="headerlink" title="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"></a>2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹</h3><br>
+
+<h3 id="3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"><a href="#3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。" class="headerlink" title="3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"></a>3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。</h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131701681.png"
+                      alt="删除已下载的缓存" title="删除已下载的缓存"
+                ><figcaption>删除已下载的缓存</figcaption></figure></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">删除已下载的缓存</center>  
+
+<p>这两个文件夹下是QQ音乐之前下载的给别人的缓存，有好几个G<br>&nbsp;</p>
+<h3 id="4、回到上级的”QQMusicCache”文件夹"><a href="#4、回到上级的”QQMusicCache”文件夹" class="headerlink" title="4、回到上级的”QQMusicCache”文件夹"></a>4、回到上级的”QQMusicCache”文件夹</h3><p>右键”downloadproxyNew” - 属性 - 安全 - 高级 - 禁用继承 - 从此对象中删除所有已继承的权限 - 应用 - 一路确定就行</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131708688.png"
+                      alt="禁用downloadproxyNew权限" title="禁用downloadproxyNew权限"
+                ><figcaption>禁用downloadproxyNew权限</figcaption></figure></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">禁用downloadproxyNew权限</center>
+
+
+<h3 id="5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"><a href="#5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。" class="headerlink" title="5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"></a>5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。</h3><p>&nbsp;<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131744231.png"
+                      title="出现权限提醒即表示成功"
+                ></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">出现权限提醒即表示成功</center>
+&nbsp;
+&nbsp;
+
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在MacOS中设置Ctrl+C/V进行复制/粘贴</title>
+    <url>/2024/08/31/tech/2024-8-1-MacOS%20set%20Ctrl+C:V/</url>
+    <content><![CDATA[<blockquote>
+<p>  初用MAC，很多习惯不同，虽然适应并不难。但因为键盘键位的问题，原本Ctrl+Z&#x2F;X&#x2F;C&#x2F;V&#x2F;A的时候可以用小指按Ctrl，字母键可以使用无名指中指食指。但Command键的位置就不行了，只能用拇指，顺带着字母键也只能用食指了，还各种扭曲难受。<br>&nbsp;</p>
+</blockquote>
+<p><big>其实只要设置一下，完全可以改回你习惯的样子。步骤如下：</big></p>
+<p>1.【系统偏好设置】【键盘】【快捷键】</p>
+<p>2.左边选择【应用快捷键】，在右侧添加快捷键即可。</p>
+<p><code> 剪切 ^X 复制 ^C 粘贴 ^V 全选 ^A 撤销键入 ^Z</code> </p>
+<p><big> 特别要注意：前面的文字要对应系统语言，比如你中文系统，设置成Cut、Copy就无效，反之英文系统设置成剪切、拷贝也不。</big></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2024.5.17有感而发-关于println报错的解决</title>
     <url>/2024/08/31/daily/2024/2024-05-17-diary01-println_error/</url>
     <content><![CDATA[<blockquote>
@@ -125,404 +479,6 @@
       </categories>
   </entry>
   <entry>
-    <title>我的CS设置</title>
-    <url>/2024/08/31/game/2024-06-21-myCS_setting/</url>
-    <content><![CDATA[<blockquote>
-<p>我是20年入坑的CSGO，很幸运，那时送了优先账户，我那时把大部分精力用在校园生活中，很少打CS，也不懂啥大行动，major通行证，勋章啥的，错过了很多东西，给我留下了遗憾，就像现在谁能想到蝴蝶刀价格暴涨。<br>第二段经历则是23年我高三时，备战高考，却受班级风气的影响迷恋上了CS，我开始练枪、开始学习道具、看直播、上b站学习，开始用buff花20块钱配了全套皮肤，其中不乏几毛几分的皮肤，也买了人生中第一把刀皮，现在这些皮肤对我来说弥足珍贵，也代表着我对这个游戏的热爱。<br>高考后，我没日没夜地玩CS，经常通宵达旦地打完美天梯，买电脑前我还天天泡网吧，一泡就是一下午。当时网吧的大屏幕和良好的游戏氛围让我一度陷入其中无法自拔，也正式开始了我的CS之路。<br>我写这篇文章旨在记录我的CS配置经验与设置。</p>
-</blockquote>
-<h1 id="基础设置与指令"><a href="#基础设置与指令" class="headerlink" title="基础设置与指令"></a>基础设置与指令</h1><h3 id="推荐准星"><a href="#推荐准星" class="headerlink" title="推荐准星"></a>推荐准星</h3><p>代码：</p>
-<p><code>CSGO-D2vJL-VGer3-FPEtz-JttQd-97DRE</code>（十字）<br><code>CSGO-qFLSa-CQS6a-aJWKN-QZNPC-LSJvM</code>（绿圆形）<br><code>CSGO-daEbe-dMEpY-7qzen-ECUyG-sjwjN</code>（小圆点）<br><code>CSGO-VDaMd-xedXq-kpWmd-aNv9e-KxQRO</code>（极小圆点）<br><code>CSGO-xStGr-MyZVQ-QDeJV-zYGxW-wOJvM</code>（黄小圆形）<br><code>CSGO-jQx5T-f7moo-kwd7v-om3hc-RMQNN</code>（donk小十字）    </p>
-<blockquote>
-<p>分辨率：1920*1440  </p>
-<p>dpi：800*1.25，狙0.83  </p>
-<p>m_yaw 0.0165</p>
-</blockquote>
-<h3 id="基础指令"><a href="#基础指令" class="headerlink" title="基础指令"></a>基础指令</h3><p>枪口抖动关闭指令：<code>Viewmodel_recoil 0</code></p>
-<p>看FPS：<code>net_graph 1</code></p>
-<hr>
-<p>CSGO旧指令：</p>
-<p>关闭手臂抖动：<code>cl_bob_lower_amt 5</code> （默认21）</p>
-<p>F键清除血迹指令：<code>bind f &quot;+lookatweapon; r_cleardecals&quot;</code></p>
-<p>SHIFT清除血迹指令：<code>bind shift &quot;+speed;r_cleardecals&quot;</code></p>
-<p>CTRL清除血迹指令：<code>bind &quot;ctrl&quot; &quot;+duck;r_cleardecals&quot;</code></p>
-<p>开枪后清除血迹指令：<code>bind MOUSE1 &quot;+attack;r_cleardecals&quot; </code></p>
-<hr>
-<h5 id="一键跳投"><a href="#一键跳投" class="headerlink" title="一键跳投"></a>一键跳投</h5><p>1.steam cs2 右键管理浏览本地文件 路径 game -csgo-cfg</p>
-<p>2.创建一个文本文档名字autoexec后缀改成.cfg</p>
-<p>把这段复制进去</p>
-<p>alias +jp “+jump;-jump”</p>
-<p>alias +ak “-attack;-attack2”</p>
-<p>然后保存</p>
-<p>3.打开cs2指令台输bind c “+jp;+ak”</p>
-<p>这个c就是一键跳投，你习惯啥键就绑啥键</p>
-<p>换手指令：<code>bindtoggle &quot;v&quot; &quot;cl_righthand&quot; 0 1</code> <small>设置中可以更改</small></p>
-<p>持枪视角1：<code>viewmodel_fov68;viewmodel_offset_x2;viewmodel_offset_y 2;viewmodel_offset_z-2;viewmodel_presetpos 0;</code></p>
-<p>持枪视角2：<code>Viewmodel_fov 68;Viewmodel_offset_x 2.5;Viewmodel_offset_y 2.0;Viewmodel_offset_z -1.7;Viewmodel_presetpos 0</code></p>
-<p>滚轮跳：<code>bind mwheeldown +jump</code></p>
-<p>关闭曳光弹：<code>r_drawtracers_firstperson 0</code></p>
-<p>手臂晃动开启：<code>cl_usenewbob 1</code>   <small>CS2开启手臂晃动实际体验更舒服</small></p>
-<p>一键静音：<code>bind 任意键 &quot;toggle voice_modenable 1 0&quot;</code>  <small>残局专用，<small>设置中可以更改</small></small></p>
-<p><strong>CS2的4:3拉伸手感不对一定要改的指令：</strong><code>m_yaw 0.0165</code> <small>默认是0.022，csgo时期没改过的就别改了</small></p>
-<p>像W跳投，快捷丢刀，滚轮跳等都可以在完美平台中设置<br><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231622256.png"
-                      alt="完美按钮设置" style="zoom: 50%;" 
-                ><figcaption>完美按钮设置</figcaption></figure><br><br></p>
-<h3 id="跑图指令"><a href="#跑图指令" class="headerlink" title="跑图指令"></a>跑图指令</h3><p>*号开启，F1变蝴蝶刀，F3飞天</p>
-<br>
-跑图必备指令↓，包括，无限金钱，无限血量，无限道具
-复制输入到控制台后，按*启动。   
-<small>丢刀后，对准刀按F1切换为蝴蝶刀，F3开启飞行</small>
-<details>
-<summary>展开查看</summary>
-bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;";bind "kp_multiply" "sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;"</details>  
-<br>
-
-<p>按J重复上一次道具：<code>bind &quot;j&quot; sv_rethrow_last_grenade</code></p>
-<p>（0）踢出bot</p>
-<p>（1，2）是增加bot</p>
-<p>（3）将bot放在指定位置</p>
-<p>（4）bot蹲（7）bot站</p>
-<p>（5）模仿镜像</p>
-<p>（6）模仿同向</p>
-<p><code>bind kp_0 &quot;bot_kick&quot;;</code></p>
-<p><code>bind KP_1 &quot;bot_add_t&quot;;</code></p>
-<p><code>bind KP_2 &quot;bot_add_CT&quot;;</code></p>
-<p><code>bind KP_3 &quot;bot_place 1&quot;;</code></p>
-<p><code>bot_stop 1;</code></p>
-<p><code>bind KP_4 &quot;bot_crouch 1&quot;;</code></p>
-<p><code>bind KP_7 &quot;bot_crouch 0&quot;;</code></p>
-<p><code>bot_mimic 1;</code></p>
-<p><code>bind KP_5&quot;bot_mimic_yaw_offset 180&quot;;</code></p>
-<p><code>bind KP_6 &quot;bot_mimic_yaw_offset 0&quot;;</code></p>
-<h3 id="练枪图指令："><a href="#练枪图指令：" class="headerlink" title="练枪图指令："></a>练枪图指令：</h3><p><small><small>用于练枪图随机刷新失效情况下</small></small></p>
-<p>按照顺序输入</p>
-<p>指令1: <code>mp_randomspawn 1</code>随机刷新</p>
-<p>指令2: <code>mp_restartgame 1</code> 重开游戏</p>
-<h3 id="快捷更换CS设置的方法（730文件夹）"><a href="#快捷更换CS设置的方法（730文件夹）" class="headerlink" title="快捷更换CS设置的方法（730文件夹）"></a>快捷更换CS设置的方法（730文件夹）</h3><p>当我们玩别人号时，为了获得良好的游戏体验。总要调回自己的设置调半天，但是只要把cs里面存放设置cfg文件的文件夹保存下来即可快捷换号。</p>
-<p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231711364.png"
-                      alt="730"
-                ><figcaption>730</figcaption></figure></p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-      <tags>
-        <tag>cs,setting</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CS2地图最新英文报点大全！</title>
-    <url>/2024/08/31/game/2024-06-21-CS2%20map%20English%20point%20name/</url>
-    <content><![CDATA[<h2 id="CS2地图最新英文报点大全！"><a href="#CS2地图最新英文报点大全！" class="headerlink" title="CS2地图最新英文报点大全！"></a>CS2地图最新英文报点大全！</h2><p>如果你经常打国际服、Faceit等国际平台，记住英文地图报点非常重要！</p>
-<p>下面是我为你总结的CS2竞技地图池的最新的英文报点。建议收藏！</p>
-<p>如果你需要中文报点，请点击这个链接查看<a class="link"   href="https://www.asiay.asia/2024/06/21/CS2-map-Chinese-point-name.html" >《CS2最新全图报点， <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><a class="link"   href="https://www.asiay.asia/2024/06/21/CS2-map-Chinese-point-name.html" >细节超全！》 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><a href="#inferno">炼狱小镇 &#x3D; Inferno</a>,  <a href="#mirage">荒漠迷城 &#x3D; Mirage</a>,  <a href="#nuke">核子危机 &#x3D;Nuke</a>,  <a href="#overpass">死亡游乐园 &#x3D; Overpass</a>,  <a href="#vertigo">殒命大厦 &#x3D; Vertigo</a>,  <a href="#ancient">远古遗迹 &#x3D; Ancient</a>,  <a href="#anubis">阿努比斯 &#x3D; Anubis</a>,  <a href="#dust">炙热沙城Ⅱ &#x3D; Dust2&#x3D; 沙2</a></p>
-<h3 id="Inferno"><a href="#Inferno" class="headerlink" title="Inferno "></a>Inferno <a id = "inferno"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211923485.png"
-                      alt="Inferno-2"
-                ><figcaption>Inferno-2</figcaption></figure></p>
-<h3 id="Mirage"><a href="#Mirage" class="headerlink" title="Mirage "></a>Mirage <a id = "mirage"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928658.png"
-                      alt="Mirage-2"
-                ><figcaption>Mirage-2</figcaption></figure></p>
-<h3 id="Nuke"><a href="#Nuke" class="headerlink" title="Nuke "></a>Nuke <a id = "nuke"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928307.png"
-                      alt="Nuke-2"
-                ><figcaption>Nuke-2</figcaption></figure></p>
-<h3 id="Overpass"><a href="#Overpass" class="headerlink" title="Overpass "></a>Overpass <a id = "overpass"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928359.png"
-                      alt="Overpass-2"
-                ><figcaption>Overpass-2</figcaption></figure></p>
-<h3 id="Vertigo"><a href="#Vertigo" class="headerlink" title="Vertigo "></a>Vertigo <a id = "vertigo"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928179.png"
-                      alt="Vertigo-2"
-                ><figcaption>Vertigo-2</figcaption></figure></p>
-<p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928928.png"
-                      alt="Vertigo-2-down"
-                ><figcaption>Vertigo-2-down</figcaption></figure></p>
-<h3 id="Ancient"><a href="#Ancient" class="headerlink" title="Ancient "></a>Ancient <a id = "ancient"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211928464.png"
-                      alt="Ancient-2"
-                ><figcaption>Ancient-2</figcaption></figure></p>
-<h3 id="Anubis"><a href="#Anubis" class="headerlink" title="Anubis "></a>Anubis <a id = "anubis"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211929456.png"
-                      alt="Anubis-2"
-                ><figcaption>Anubis-2</figcaption></figure></p>
-<h3 id="Dust2"><a href="#Dust2" class="headerlink" title="Dust2 "></a>Dust2 <a id = "dust"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211929333.png"
-                      alt="Dust2-2"
-                ><figcaption>Dust2-2</figcaption></figure></p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-      <tags>
-        <tag>cs, map</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CS2地图最新中文报点大全！</title>
-    <url>/2024/08/31/game/2024-06-21-CS2%20map%20Chinese%20point%20name%20/</url>
-    <content><![CDATA[<h1 id="CS2最新全图报点，细节超全！"><a href="#CS2最新全图报点，细节超全！" class="headerlink" title="CS2最新全图报点，细节超全！"></a>CS2最新全图报点，细节超全！</h1><p>学习CS2的报点跟练习瞄准一样重要。既然你每天都玩这些地图，所以学起来应该更简单。</p>
-<p>为什么要记住地图报点？</p>
-<p>因为你需要和队友快速交换敌人的位置信息，这样有两个好处，首先，局部范围内的队友能够马上完成配合，例如迅速补枪，其次，敌人所在位置信息越多，越有利于整体上判断对方的进攻&#x2F;防守动态。</p>
-<p>掌握地图报点是打好FPS游戏的基础。在我小时候在网吧里打CS的那个年代，地图上关键位置就已经有了起名的传统了。</p>
-<p>下面是我为你总结的CS2竞技地图池的最新的中文报点。建议收藏！</p>
-<p><a href="#inferno">炼狱小镇 &#x3D; Inferno</a>,  <a href="#mirage">荒漠迷城 &#x3D; Mirage</a>,  <a href="#nuke">核子危机 &#x3D;Nuke</a>,  <a href="#overpass">死亡游乐园 &#x3D; Overpass</a>,  <a href="#vertigo">殒命大厦 &#x3D; Vertigo</a>,  <a href="#ancient">远古遗迹 &#x3D; Ancient</a>,  <a href="#anubis">阿努比斯 &#x3D; Anubis</a>,  <a href="#dust">炙热沙城Ⅱ &#x3D; Dust2&#x3D; 沙2</a></p>
-<h3 id="炼狱小镇"><a href="#炼狱小镇" class="headerlink" title="炼狱小镇 "></a>炼狱小镇 <a id = "inferno"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936340.png"
-                      alt="Inferno-2"
-                ><figcaption>Inferno-2</figcaption></figure></p>
-<h3 id="荒漠迷城"><a href="#荒漠迷城" class="headerlink" title="荒漠迷城 "></a>荒漠迷城 <a id = "mirage"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936326.png"
-                      alt="Mirage-2"
-                ><figcaption>Mirage-2</figcaption></figure></p>
-<h3 id="核子危机"><a href="#核子危机" class="headerlink" title="核子危机 "></a>核子危机 <a id = "nuke"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936823.png"
-                      alt="Nuke-2"
-                ><figcaption>Nuke-2</figcaption></figure></p>
-<h3 id="死亡游乐园"><a href="#死亡游乐园" class="headerlink" title="死亡游乐园 "></a>死亡游乐园 <a id = "overpass"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211936674.png"
-                      alt="Overpass-2"
-                ><figcaption>Overpass-2</figcaption></figure></p>
-<h3 id="殒命大厦"><a href="#殒命大厦" class="headerlink" title="殒命大厦 "></a>殒命大厦 <a id = "vertigo"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938304.png"
-                      alt="Vertigo-2"
-                ><figcaption>Vertigo-2</figcaption></figure></p>
-<h3 id="远古遗迹"><a href="#远古遗迹" class="headerlink" title="远古遗迹 "></a>远古遗迹 <a id = "ancient"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938548.png"
-                      alt="Ancient-2"
-                ><figcaption>Ancient-2</figcaption></figure></p>
-<h3 id="阿努比斯"><a href="#阿努比斯" class="headerlink" title="阿努比斯 "></a>阿努比斯 <a id = "anubis"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938500.png"
-                      alt="Anubis-2"
-                ><figcaption>Anubis-2</figcaption></figure></p>
-<h3 id="炙热沙城Ⅱ"><a href="#炙热沙城Ⅱ" class="headerlink" title="炙热沙城Ⅱ "></a>炙热沙城Ⅱ <a id = "dust"></a></h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406211938836.png"
-                      alt="Dust2-2"
-                ><figcaption>Dust2-2</figcaption></figure></p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-      <tags>
-        <tag>cs, map</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>禁止QQ音乐后台上传</title>
-    <url>/2024/08/31/tech/2024-06-13-Forbid%20QQMusic%20background%20upload/</url>
-    <content><![CDATA[<blockquote>
-<p>  最近发现QQ音乐在后台偷跑上传，网络上有的人甚至被偷跑了2TB的流量，这节省的CDN流量都足够换几百块了，能买一两年的QQ会员了。<br>以下是禁止QQ音乐P2P上传的方法：<br>&nbsp;</p>
-</blockquote>
-<h3 id="1、打开任意文件夹，在地址栏输入："><a href="#1、打开任意文件夹，在地址栏输入：" class="headerlink" title="1、打开任意文件夹，在地址栏输入："></a>1、打开任意文件夹，在地址栏输入：</h3><p>C:\Users%USERNAME%\AppData\Roaming\Tencent\QQMusic\QQMusicCache  </p>
-<p>如果你在Q音里自定义了缓存存放目录，请在Q音设置里打开QQMusicCache文件夹，如图：</p>
-<p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131658681.png"
-                      alt="QQMusicCache" title="QQMusicCache"
-                ><figcaption>QQMusicCache</figcaption></figure></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">QQMusicCache</center> 
-<br>
-
-<h3 id="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"><a href="#2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹" class="headerlink" title="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"></a>2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹</h3><br>
-
-<h3 id="3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"><a href="#3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。" class="headerlink" title="3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"></a>3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。</h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131701681.png"
-                      alt="删除已下载的缓存" title="删除已下载的缓存"
-                ><figcaption>删除已下载的缓存</figcaption></figure></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">删除已下载的缓存</center>  
-
-<p>这两个文件夹下是QQ音乐之前下载的给别人的缓存，有好几个G<br>&nbsp;</p>
-<h3 id="4、回到上级的”QQMusicCache”文件夹"><a href="#4、回到上级的”QQMusicCache”文件夹" class="headerlink" title="4、回到上级的”QQMusicCache”文件夹"></a>4、回到上级的”QQMusicCache”文件夹</h3><p>右键”downloadproxyNew” - 属性 - 安全 - 高级 - 禁用继承 - 从此对象中删除所有已继承的权限 - 应用 - 一路确定就行</p>
-<p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131708688.png"
-                      alt="禁用downloadproxyNew权限" title="禁用downloadproxyNew权限"
-                ><figcaption>禁用downloadproxyNew权限</figcaption></figure></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">禁用downloadproxyNew权限</center>
-
-
-<h3 id="5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"><a href="#5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。" class="headerlink" title="5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"></a>5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。</h3><p>&nbsp;<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131744231.png"
-                      title="出现权限提醒即表示成功"
-                ></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">出现权限提醒即表示成功</center>
-&nbsp;
-&nbsp;
-
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在MacOS中设置Ctrl+C/V进行复制/粘贴</title>
-    <url>/2024/08/31/tech/2024-8-1-MacOS%20set%20Ctrl+C:V/</url>
-    <content><![CDATA[<blockquote>
-<p>  初用MAC，很多习惯不同，虽然适应并不难。但因为键盘键位的问题，原本Ctrl+Z&#x2F;X&#x2F;C&#x2F;V&#x2F;A的时候可以用小指按Ctrl，字母键可以使用无名指中指食指。但Command键的位置就不行了，只能用拇指，顺带着字母键也只能用食指了，还各种扭曲难受。<br>&nbsp;</p>
-</blockquote>
-<p><big>其实只要设置一下，完全可以改回你习惯的样子。步骤如下：</big></p>
-<p>1.【系统偏好设置】【键盘】【快捷键】</p>
-<p>2.左边选择【应用快捷键】，在右侧添加快捷键即可。</p>
-<p><code> 剪切 ^X 复制 ^C 粘贴 ^V 全选 ^A 撤销键入 ^Z</code> </p>
-<p><big> 特别要注意：前面的文字要对应系统语言，比如你中文系统，设置成Cut、Copy就无效，反之英文系统设置成剪切、拷贝也不。</big></p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>TrafficMonitorWindows：平台系统性能、网速监测工具</title>
-    <url>/2024/08/31/tech/TOOL/2024-06-23-TrafficMonitor/</url>
-    <content><![CDATA[<blockquote>
-<p>Traffic Monitor 是一款用于 Windows 平台的网速监控悬浮窗软件，可以显示当前网速、CPU 及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。</p>
-</blockquote>
-<h2 id="主要特性"><a href="#主要特性" class="headerlink" title="主要特性"></a>主要特性</h2><p>*显示当前实现网络传输速率、CPU 和内存占用率</p>
-<p>*如果电脑有多个网卡，支持自动和手动选择网络连接</p>
-<p>*查看网络详细信息</p>
-<p>*支持嵌入到任务栏显示</p>
-<p>*支持更换皮肤和自定义皮肤</p>
-<p>*历史流量统计</p>
-<p>*硬件信息监控</p>
-<h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><p>下载好软件后双击打开，程序在启动后会在屏幕中显示一个网速的悬浮窗。在悬浮窗上单机右键可以弹出右键菜单，可也更改软件的所有设置。</p>
-<p>同时任务栏窗口支持自定义显示项目，默认情况下只显示网速，如果需要显示 CPU 和内存利用率，请在任务栏右键菜单中的“显示设置”子菜单下勾选需要显示的项目</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231641276.png"
-                     
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643863.png"
-                     
-                ></p>
-  <br>
-
-<p>历史流量统计功能。TrafficMonitor 支持查看历史流量，可以按天、周、月、季、年等进行统计。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643646.png"
-                     
-                ></p>
-<p>而且这个软件也提供了这定义皮肤的功能除了软件提供的几个默认皮肤外观，用户可以根据自己的需求编辑自己喜欢的皮肤观样式。在主窗口或通知区图标右键菜单选择“其他功能”——“更换皮肤”可以打开换皮肤界面</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231648737.png"
-                     
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643795.png"
-                     
-                ></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>下载 TrafficMonitor 的最新版本</p>
-<p>GitHub 下载页面  <a class="link"   href="https://github.com/zhongyang219/TrafficMonitor/releases/" >https://github.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>国内用户如果遇到 Github 下载缓慢的问题，可以 点击此处<a class="link"   href="https://gitee.com/zhongyang219/TrafficMonitor/releases/" >https://gitee.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 转到此项目在 Gitee 上的页面。</p>
-<p>备用链接：<br>百度网盘下载 <a class="link"   href="https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg" >https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>提取码：ou0m</p>
-<br>
-TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包含了所有的功能，Lite 版本则不包含温度监控、显卡利用率、硬盘利用率等硬件监控功能。普通版运行需要管理员权限，而 Lite 版本则不需要。
-
-<p>以下是两个版本功能对比。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231651709.png"
-                     
-                ></p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>TrafficMonitor tool</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>SoundSwitch - 使用快捷键切换音频输入、输出设备[Windows]</title>
-    <url>/2024/08/31/tech/TOOL/2024-06-21-soundswitch/</url>
-    <content><![CDATA[<blockquote>
-<p>有些朋友的电脑上可能插着耳机、音箱、麦克风、耳麦多种音频的输出、输入设备，虽然系统在右下角有选择的设置，但如果每次都设置的话，那就很麻烦了。SoundSwitch 就是一款可以让你通过快捷键的方式，来实现快速切换音频输入、输出设备的功能。</p>
-</blockquote>
-<h2 id="SoundSwitch-概述"><a href="#SoundSwitch-概述" class="headerlink" title="SoundSwitch 概述"></a>SoundSwitch 概述</h2><p>该程序配置简单。您需要做的就是右键单击系统托盘图标以打开设置。从那里，您可以选择您喜欢的热键并选择&#x2F;取消选择设备，以便只有正确的设备可用于切换。</p>
-<p>一旦您满意了，他就会在后台静默运行。所做的所有选择都将被保存，以便他们再重新启动程序时准备就绪。热键可以让您快速选择&#x2F;切换您喜欢的播放设备（声卡）。</p>
-<p>您只需配置要在那些播放设备之间切换，然后按Ctrl+Alt+F11或自己设置的快捷键即可自动切换。</p>
-<h3 id="声音开关的特点"><a href="#声音开关的特点" class="headerlink" title="声音开关的特点"></a>声音开关的特点</h3><ul>
-<li><p>重量轻且易于使用</p>
-</li>
-<li><p>简单的热键设置</p>
-</li>
-<li><p>无需重新配置</p>
-</li>
-</ul>
-<h4 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h4><p>SoundSwitch<a class="link"   href="https://soundswitch.aaflalo.me/" >主页在这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，源码在<a class="link"   href="https://github.com/Belphemur/SoundSwitch" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>下载地址：<strong>SoundSwitch</strong> 官网下载页面：<a class="link"   href="https://soundswitch.aaflalo.me/" >这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://www.alipan.com/s/M5ufEnUYLx9" >阿里盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://pan.baidu.com/s/1lJDiS2vbd6Omr8Db9m-SVA?pwd=x1mi" >百度盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码: x1mi</p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>SoundSwitch tool</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Clash Verge 教程</title>
     <url>/2024/08/31/tech/TOOL/2024-05-22-Clash%20Verge/</url>
     <content><![CDATA[<blockquote>
@@ -631,57 +587,101 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
       </tags>
   </entry>
   <entry>
-    <title>Welcome，在这里你可以初步认识我</title>
-    <url>/2024/08/31/about/</url>
-    <content><![CDATA[<p><a class="btn aright " href="/en/about"><i class="fa-regular fa-language "></i></a></p>
-<style>
-h1 {
-    border-bottom: none !important;
-}
-.aright {
-    float: right;
-    font-size: 1em;
-    padding: 2px 10px !important;
-    margin-top: 10px;
-}
-</style>
-
-<h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><blockquote>
-<p>  在访问别人博客的时候，我经常去看别人的“关于”页面，所以我自己的博客，当然要有一个关于页面。于是我把关于页面放在首页。<br>玩博客，难免会涉及到生活、计算机、编程、技巧、域名等等，作为技术爱好，把自己折腾这些的过程写下来，既是自己的备忘录，也许也可以给其他人提供点参考。<br>作为一个佛系博主，不在乎多少的访问量，不在乎多少的广告收益，没有任何压力。<br>嗯，说写就写。</p>
+    <title>SoundSwitch - 使用快捷键切换音频输入、输出设备[Windows]</title>
+    <url>/2024/08/31/tech/TOOL/2024-06-21-soundswitch/</url>
+    <content><![CDATA[<blockquote>
+<p>有些朋友的电脑上可能插着耳机、音箱、麦克风、耳麦多种音频的输出、输入设备，虽然系统在右下角有选择的设置，但如果每次都设置的话，那就很麻烦了。SoundSwitch 就是一款可以让你通过快捷键的方式，来实现快速切换音频输入、输出设备的功能。</p>
 </blockquote>
-<h2 id="对博客的理解"><a href="#对博客的理解" class="headerlink" title="对博客的理解"></a>对博客的理解</h2><hr>
-<p>2023年，我开始接触计算机相关，开始自己尝试做项目，每个项目需要用到大量第三方资源，也越来越多的去使用github去需找开源项目，大量的代码节省了我很多时间，也慢慢的找到了分享的感觉。</p>
-<p>每个攻城狮都应该有一个自己的技术博客，在网络中的文章帮助你节约了时间和提供帮助的同时，也想着自己写一些文章去分享知识，程序员应该学会分享。分享还有个好处是激发自己对每个知识点的深入研究以及加深自己对知识点的理解和记忆。</p>
-<p>目前在广州，有空可以来找我玩</p>
-<p><small>本博客80%为原创，20%来自于网络文章</small></p>
-<h2 id="博客中的技术类型"><a href="#博客中的技术类型" class="headerlink" title="博客中的技术类型"></a>博客中的技术类型</h2><hr>
-<img  
+<h2 id="SoundSwitch-概述"><a href="#SoundSwitch-概述" class="headerlink" title="SoundSwitch 概述"></a>SoundSwitch 概述</h2><p>该程序配置简单。您需要做的就是右键单击系统托盘图标以打开设置。从那里，您可以选择您喜欢的热键并选择&#x2F;取消选择设备，以便只有正确的设备可用于切换。</p>
+<p>一旦您满意了，他就会在后台静默运行。所做的所有选择都将被保存，以便他们再重新启动程序时准备就绪。热键可以让您快速选择&#x2F;切换您喜欢的播放设备（声卡）。</p>
+<p>您只需配置要在那些播放设备之间切换，然后按Ctrl+Alt+F11或自己设置的快捷键即可自动切换。</p>
+<h3 id="声音开关的特点"><a href="#声音开关的特点" class="headerlink" title="声音开关的特点"></a>声音开关的特点</h3><ul>
+<li><p>重量轻且易于使用</p>
+</li>
+<li><p>简单的热键设置</p>
+</li>
+<li><p>无需重新配置</p>
+</li>
+</ul>
+<h4 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h4><p>SoundSwitch<a class="link"   href="https://soundswitch.aaflalo.me/" >主页在这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，源码在<a class="link"   href="https://github.com/Belphemur/SoundSwitch" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>下载地址：<strong>SoundSwitch</strong> 官网下载页面：<a class="link"   href="https://soundswitch.aaflalo.me/" >这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://www.alipan.com/s/M5ufEnUYLx9" >阿里盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://pan.baidu.com/s/1lJDiS2vbd6Omr8Db9m-SVA?pwd=x1mi" >百度盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码: x1mi</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>SoundSwitch tool</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>TrafficMonitorWindows：平台系统性能、网速监测工具</title>
+    <url>/2024/08/31/tech/TOOL/2024-06-23-TrafficMonitor/</url>
+    <content><![CDATA[<blockquote>
+<p>Traffic Monitor 是一款用于 Windows 平台的网速监控悬浮窗软件，可以显示当前网速、CPU 及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。</p>
+</blockquote>
+<h2 id="主要特性"><a href="#主要特性" class="headerlink" title="主要特性"></a>主要特性</h2><p>*显示当前实现网络传输速率、CPU 和内存占用率</p>
+<p>*如果电脑有多个网卡，支持自动和手动选择网络连接</p>
+<p>*查看网络详细信息</p>
+<p>*支持嵌入到任务栏显示</p>
+<p>*支持更换皮肤和自定义皮肤</p>
+<p>*历史流量统计</p>
+<p>*硬件信息监控</p>
+<h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><p>下载好软件后双击打开，程序在启动后会在屏幕中显示一个网速的悬浮窗。在悬浮窗上单机右键可以弹出右键菜单，可也更改软件的所有设置。</p>
+<p>同时任务栏窗口支持自定义显示项目，默认情况下只显示网速，如果需要显示 CPU 和内存利用率，请在任务栏右键菜单中的“显示设置”子菜单下勾选需要显示的项目</p>
+<p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310150831.jpeg"
-                       width="400" 
-                >
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231641276.png"
+                     
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643863.png"
+                     
+                ></p>
+  <br>
 
+<p>历史流量统计功能。TrafficMonitor 支持查看历史流量，可以按天、周、月、季、年等进行统计。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643646.png"
+                     
+                ></p>
+<p>而且这个软件也提供了这定义皮肤的功能除了软件提供的几个默认皮肤外观，用户可以根据自己的需求编辑自己喜欢的皮肤观样式。在主窗口或通知区图标右键菜单选择“其他功能”——“更换皮肤”可以打开换皮肤界面</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231648737.png"
+                     
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643795.png"
+                     
+                ></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>下载 TrafficMonitor 的最新版本</p>
+<p>GitHub 下载页面  <a class="link"   href="https://github.com/zhongyang219/TrafficMonitor/releases/" >https://github.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>国内用户如果遇到 Github 下载缓慢的问题，可以 点击此处<a class="link"   href="https://gitee.com/zhongyang219/TrafficMonitor/releases/" >https://gitee.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 转到此项目在 Gitee 上的页面。</p>
+<p>备用链接：<br>百度网盘下载 <a class="link"   href="https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg" >https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>提取码：ou0m</p>
+<br>
+TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包含了所有的功能，Lite 版本则不包含温度监控、显卡利用率、硬盘利用率等硬件监控功能。普通版运行需要管理员权限，而 Lite 版本则不需要。
 
-<p>我叫江南易，一个萌新程序员，同时也是一名交易员。技术上熟悉Java，Web前端，Python，数据结构。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。</p>
-<ul>
-<li>Java </li>
-<li>   Web前端</li>
-<li>Python</li>
-<li>数据结构</li>
-<li>C# 会写一些</li>
-<li>其他（数据库，网站部署，博客建站，个人生活，虚拟货币交易等会少量涉及）</li>
-</ul>
-<h2 id="博客更新频率"><a href="#博客更新频率" class="headerlink" title="博客更新频率"></a>博客更新频率</h2><hr>
-<p>不定时更新吧，每天忙于学习。</p>
-<h2 id="博客中示例程序代码下载："><a href="#博客中示例程序代码下载：" class="headerlink" title="博客中示例程序代码下载："></a>博客中示例程序代码下载：</h2><hr>
-<ul>
-<li>   <a class="link"   href="https://github.com/CurtisYan/Java-demo" >java demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>   <a class="link"   href="https://github.com/CurtisYan/Python-demo" >python demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><hr>
-<p>本站基于Hexo Redefine主题搭建而成，<br>若想搭建同款博客，请点击导航栏 关于 &gt; <a class="link"   href="https://redefine-docs.ohevan.com/" >Redefine-Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，进行搭建。</p>
-<p>如果有问题可以直接评论,或是给我发邮件。如果觉得对你有所帮助，就给我点个赞或是<a class="link"   href="https://github.com/CurtisYan/" >github上follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。谢谢大家的支持。</p>
+<p>以下是两个版本功能对比。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231651709.png"
+                     
+                ></p>
 ]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>TrafficMonitor tool</tag>
+      </tags>
   </entry>
 </search>
