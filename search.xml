@@ -1,6 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>禁止QQ音乐后台上传</title>
+    <url>/2024/08/31/tech/2024-06-13-Forbid%20QQMusic%20background%20upload/</url>
+    <content><![CDATA[<blockquote>
+<p>  最近发现QQ音乐在后台偷跑上传，网络上有的人甚至被偷跑了2TB的流量，这节省的CDN流量都足够换几百块了，能买一两年的QQ会员了。<br>以下是禁止QQ音乐P2P上传的方法：<br>&nbsp;</p>
+</blockquote>
+<h3 id="1、打开任意文件夹，在地址栏输入："><a href="#1、打开任意文件夹，在地址栏输入：" class="headerlink" title="1、打开任意文件夹，在地址栏输入："></a>1、打开任意文件夹，在地址栏输入：</h3><p>C:\Users%USERNAME%\AppData\Roaming\Tencent\QQMusic\QQMusicCache  </p>
+<p>如果你在Q音里自定义了缓存存放目录，请在Q音设置里打开QQMusicCache文件夹，如图：</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131658681.png"
+                      alt="QQMusicCache" title="QQMusicCache"
+                ><figcaption>QQMusicCache</figcaption></figure></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">QQMusicCache</center> 
+<br>
+
+<h3 id="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"><a href="#2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹" class="headerlink" title="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"></a>2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹</h3><br>
+
+<h3 id="3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"><a href="#3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。" class="headerlink" title="3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"></a>3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。</h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131701681.png"
+                      alt="删除已下载的缓存" title="删除已下载的缓存"
+                ><figcaption>删除已下载的缓存</figcaption></figure></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">删除已下载的缓存</center>  
+
+<p>这两个文件夹下是QQ音乐之前下载的给别人的缓存，有好几个G<br>&nbsp;</p>
+<h3 id="4、回到上级的”QQMusicCache”文件夹"><a href="#4、回到上级的”QQMusicCache”文件夹" class="headerlink" title="4、回到上级的”QQMusicCache”文件夹"></a>4、回到上级的”QQMusicCache”文件夹</h3><p>右键”downloadproxyNew” - 属性 - 安全 - 高级 - 禁用继承 - 从此对象中删除所有已继承的权限 - 应用 - 一路确定就行</p>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131708688.png"
+                      alt="禁用downloadproxyNew权限" title="禁用downloadproxyNew权限"
+                ><figcaption>禁用downloadproxyNew权限</figcaption></figure></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">禁用downloadproxyNew权限</center>
+
+
+<h3 id="5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"><a href="#5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。" class="headerlink" title="5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"></a>5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。</h3><p>&nbsp;<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131744231.png"
+                      title="出现权限提醒即表示成功"
+                ></p>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">出现权限提醒即表示成功</center>
+&nbsp;
+&nbsp;
+
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Welcome，在这里你可以初步认识我</title>
+    <url>/2024/08/31/about/</url>
+    <content><![CDATA[<p><a class="btn aright " href="/en/about"><i class="fa-regular fa-language "></i></a></p>
+<style>
+h1 {
+    border-bottom: none !important;
+}
+.aright {
+    float: right;
+    font-size: 1em;
+    padding: 2px 10px !important;
+    margin-top: 10px;
+}
+</style>
+
+<h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><blockquote>
+<p>  在访问别人博客的时候，我经常去看别人的“关于”页面，所以我自己的博客，当然要有一个关于页面。于是我把关于页面放在首页。<br>玩博客，难免会涉及到生活、计算机、编程、技巧、域名等等，作为技术爱好，把自己折腾这些的过程写下来，既是自己的备忘录，也许也可以给其他人提供点参考。<br>作为一个佛系博主，不在乎多少的访问量，不在乎多少的广告收益，没有任何压力。<br>嗯，说写就写。</p>
+</blockquote>
+<h2 id="对博客的理解"><a href="#对博客的理解" class="headerlink" title="对博客的理解"></a>对博客的理解</h2><hr>
+<p>2023年，我开始接触计算机相关，开始自己尝试做项目，每个项目需要用到大量第三方资源，也越来越多的去使用github去需找开源项目，大量的代码节省了我很多时间，也慢慢的找到了分享的感觉。</p>
+<p>每个攻城狮都应该有一个自己的技术博客，在网络中的文章帮助你节约了时间和提供帮助的同时，也想着自己写一些文章去分享知识，程序员应该学会分享。分享还有个好处是激发自己对每个知识点的深入研究以及加深自己对知识点的理解和记忆。</p>
+<p>目前在广州，有空可以来找我玩</p>
+<p><small>本博客80%为原创，20%来自于网络文章</small></p>
+<h2 id="博客中的技术类型"><a href="#博客中的技术类型" class="headerlink" title="博客中的技术类型"></a>博客中的技术类型</h2><hr>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310150831.jpeg"
+                       width="400" 
+                >
+
+
+<p>我叫江南易，一个萌新程序员，同时也是一名交易员。技术上熟悉Java，Web前端，Python，数据结构。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。</p>
+<ul>
+<li>Java </li>
+<li>   Web前端</li>
+<li>Python</li>
+<li>数据结构</li>
+<li>C# 会写一些</li>
+<li>其他（数据库，网站部署，博客建站，个人生活，虚拟货币交易等会少量涉及）</li>
+</ul>
+<h2 id="博客更新频率"><a href="#博客更新频率" class="headerlink" title="博客更新频率"></a>博客更新频率</h2><hr>
+<p>不定时更新吧，每天忙于学习。</p>
+<h2 id="博客中示例程序代码下载："><a href="#博客中示例程序代码下载：" class="headerlink" title="博客中示例程序代码下载："></a>博客中示例程序代码下载：</h2><hr>
+<ul>
+<li>   <a class="link"   href="https://github.com/CurtisYan/Java-demo" >java demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>   <a class="link"   href="https://github.com/CurtisYan/Python-demo" >python demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><hr>
+<p>本站基于Hexo Redefine主题搭建而成，<br>若想搭建同款博客，请点击导航栏 关于 &gt; <a class="link"   href="https://redefine-docs.ohevan.com/" >Redefine-Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，进行搭建。</p>
+<p>如果有问题可以直接评论,或是给我发邮件。如果觉得对你有所帮助，就给我点个赞或是<a class="link"   href="https://github.com/CurtisYan/" >github上follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。谢谢大家的支持。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>在MacOS中设置Ctrl+C/V进行复制/粘贴</title>
+    <url>/2024/08/31/tech/2024-8-1-MacOS%20set%20Ctrl+C:V/</url>
+    <content><![CDATA[<blockquote>
+<p>  初用MAC，很多习惯不同，虽然适应并不难。但因为键盘键位的问题，原本Ctrl+Z&#x2F;X&#x2F;C&#x2F;V&#x2F;A的时候可以用小指按Ctrl，字母键可以使用无名指中指食指。但Command键的位置就不行了，只能用拇指，顺带着字母键也只能用食指了，还各种扭曲难受。<br>&nbsp;</p>
+</blockquote>
+<p><big>其实只要设置一下，完全可以改回你习惯的样子。步骤如下：</big></p>
+<p>1.【系统偏好设置】【键盘】【快捷键】</p>
+<p>2.左边选择【应用快捷键】，在右侧添加快捷键即可。</p>
+<p><code> 剪切 ^X 复制 ^C 粘贴 ^V 全选 ^A 撤销键入 ^Z</code> </p>
+<p><big> 特别要注意：前面的文字要对应系统语言，比如你中文系统，设置成Cut、Copy就无效，反之英文系统设置成剪切、拷贝也不。</big></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>CS2地图最新中文报点大全！</title>
     <url>/2024/08/31/game/2024-06-21-CS2%20map%20Chinese%20point%20name%20/</url>
     <content><![CDATA[<h1 id="CS2最新全图报点，细节超全！"><a href="#CS2最新全图报点，细节超全！" class="headerlink" title="CS2最新全图报点，细节超全！"></a>CS2最新全图报点，细节超全！</h1><p>学习CS2的报点跟练习瞄准一样重要。既然你每天都玩这些地图，所以学起来应该更简单。</p>
@@ -64,60 +193,6 @@
       <tags>
         <tag>cs, map</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Welcome，在这里你可以初步认识我</title>
-    <url>/2024/08/31/about/</url>
-    <content><![CDATA[<p><a class="btn aright " href="/en/about"><i class="fa-regular fa-language "></i></a></p>
-<style>
-h1 {
-    border-bottom: none !important;
-}
-.aright {
-    float: right;
-    font-size: 1em;
-    padding: 2px 10px !important;
-    margin-top: 10px;
-}
-</style>
-
-<h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><blockquote>
-<p>  在访问别人博客的时候，我经常去看别人的“关于”页面，所以我自己的博客，当然要有一个关于页面。于是我把关于页面放在首页。<br>玩博客，难免会涉及到生活、计算机、编程、技巧、域名等等，作为技术爱好，把自己折腾这些的过程写下来，既是自己的备忘录，也许也可以给其他人提供点参考。<br>作为一个佛系博主，不在乎多少的访问量，不在乎多少的广告收益，没有任何压力。<br>嗯，说写就写。</p>
-</blockquote>
-<h2 id="对博客的理解"><a href="#对博客的理解" class="headerlink" title="对博客的理解"></a>对博客的理解</h2><hr>
-<p>2023年，我开始接触计算机相关，开始自己尝试做项目，每个项目需要用到大量第三方资源，也越来越多的去使用github去需找开源项目，大量的代码节省了我很多时间，也慢慢的找到了分享的感觉。</p>
-<p>每个攻城狮都应该有一个自己的技术博客，在网络中的文章帮助你节约了时间和提供帮助的同时，也想着自己写一些文章去分享知识，程序员应该学会分享。分享还有个好处是激发自己对每个知识点的深入研究以及加深自己对知识点的理解和记忆。</p>
-<p>目前在广州，有空可以来找我玩</p>
-<p><small>本博客80%为原创，20%来自于网络文章</small></p>
-<h2 id="博客中的技术类型"><a href="#博客中的技术类型" class="headerlink" title="博客中的技术类型"></a>博客中的技术类型</h2><hr>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310150831.jpeg"
-                       width="400" 
-                >
-
-
-<p>我叫江南易，一个萌新程序员，同时也是一名交易员。技术上熟悉Java，Web前端，Python，数据结构。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。</p>
-<ul>
-<li>Java </li>
-<li>   Web前端</li>
-<li>Python</li>
-<li>数据结构</li>
-<li>C# 会写一些</li>
-<li>其他（数据库，网站部署，博客建站，个人生活，虚拟货币交易等会少量涉及）</li>
-</ul>
-<h2 id="博客更新频率"><a href="#博客更新频率" class="headerlink" title="博客更新频率"></a>博客更新频率</h2><hr>
-<p>不定时更新吧，每天忙于学习。</p>
-<h2 id="博客中示例程序代码下载："><a href="#博客中示例程序代码下载：" class="headerlink" title="博客中示例程序代码下载："></a>博客中示例程序代码下载：</h2><hr>
-<ul>
-<li>   <a class="link"   href="https://github.com/CurtisYan/Java-demo" >java demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>   <a class="link"   href="https://github.com/CurtisYan/Python-demo" >python demo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><hr>
-<p>本站基于Hexo Redefine主题搭建而成，<br>若想搭建同款博客，请点击导航栏 关于 &gt; <a class="link"   href="https://redefine-docs.ohevan.com/" >Redefine-Docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，进行搭建。</p>
-<p>如果有问题可以直接评论,或是给我发邮件。如果觉得对你有所帮助，就给我点个赞或是<a class="link"   href="https://github.com/CurtisYan/" >github上follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。谢谢大家的支持。</p>
-]]></content>
   </entry>
   <entry>
     <title>CS2地图最新英文报点大全！</title>
@@ -280,62 +355,6 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
       </tags>
   </entry>
   <entry>
-    <title>禁止QQ音乐后台上传</title>
-    <url>/2024/08/31/tech/2024-06-13-Forbid%20QQMusic%20background%20upload/</url>
-    <content><![CDATA[<blockquote>
-<p>  最近发现QQ音乐在后台偷跑上传，网络上有的人甚至被偷跑了2TB的流量，这节省的CDN流量都足够换几百块了，能买一两年的QQ会员了。<br>以下是禁止QQ音乐P2P上传的方法：<br>&nbsp;</p>
-</blockquote>
-<h3 id="1、打开任意文件夹，在地址栏输入："><a href="#1、打开任意文件夹，在地址栏输入：" class="headerlink" title="1、打开任意文件夹，在地址栏输入："></a>1、打开任意文件夹，在地址栏输入：</h3><p>C:\Users%USERNAME%\AppData\Roaming\Tencent\QQMusic\QQMusicCache  </p>
-<p>如果你在Q音里自定义了缓存存放目录，请在Q音设置里打开QQMusicCache文件夹，如图：</p>
-<p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131658681.png"
-                      alt="QQMusicCache" title="QQMusicCache"
-                ><figcaption>QQMusicCache</figcaption></figure></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">QQMusicCache</center> 
-<br>
-
-<h3 id="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"><a href="#2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹" class="headerlink" title="2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹"></a>2、找到目录下”downloadproxyNew”文件夹，双击进入文件夹</h3><br>
-
-<h3 id="3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"><a href="#3、关闭QQ音乐以及其后台，清除”tp-dp-file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。" class="headerlink" title="3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。"></a>3、关闭QQ音乐以及其后台，清除”tp_dp_file”和”tp2p”文件夹里的所有内容但是不要删除这两个文件夹。</h3><p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131701681.png"
-                      alt="删除已下载的缓存" title="删除已下载的缓存"
-                ><figcaption>删除已下载的缓存</figcaption></figure></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">删除已下载的缓存</center>  
-
-<p>这两个文件夹下是QQ音乐之前下载的给别人的缓存，有好几个G<br>&nbsp;</p>
-<h3 id="4、回到上级的”QQMusicCache”文件夹"><a href="#4、回到上级的”QQMusicCache”文件夹" class="headerlink" title="4、回到上级的”QQMusicCache”文件夹"></a>4、回到上级的”QQMusicCache”文件夹</h3><p>右键”downloadproxyNew” - 属性 - 安全 - 高级 - 禁用继承 - 从此对象中删除所有已继承的权限 - 应用 - 一路确定就行</p>
-<p><figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131708688.png"
-                      alt="禁用downloadproxyNew权限" title="禁用downloadproxyNew权限"
-                ><figcaption>禁用downloadproxyNew权限</figcaption></figure></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">禁用downloadproxyNew权限</center>
-
-
-<h3 id="5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"><a href="#5、验证-这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。" class="headerlink" title="5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。"></a>5、验证 这时候双击”downloadproxyNew”文件夹，发现弹出权限请求则证明成功了，千万不要点确定进去，不然又得重新搞。</h3><p>&nbsp;<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406131744231.png"
-                      title="出现权限提醒即表示成功"
-                ></p>
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">出现权限提醒即表示成功</center>
-&nbsp;
-&nbsp;
-
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2024.5.17有感而发-关于println报错的解决</title>
     <url>/2024/08/31/daily/2024/2024-05-17-diary01-println_error/</url>
     <content><![CDATA[<blockquote>
@@ -374,41 +393,101 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
       </tags>
   </entry>
   <entry>
-    <title>我收藏的短评01</title>
-    <url>/2024/08/31/daily/2024/2024-07-18-brief%20comment/</url>
-    <content><![CDATA[<h5 id="1"><a href="#1" class="headerlink" title="1"></a>1</h5><p>我认为参与和讨论政治的人还是应该有点理想主义，起码心中要能够想象自己最希望社会是什么样子，然后从这一点出发去构建自己的政治观念。太多的人的政治观念建立在“其他抱有某种观念的某些人曾经伤害过我的利益或者感情”之上，然后自己除了表达反对以外什么也说不出来，也不管那些人是不是真的还像以前一样对他有威胁。这样的人很容易被人利用，因为凡是能够实现他的反对的事他都愿意去</p>
-<p>做，但常常到头来发现反对之后事情的发展并不令自己满意，可以说是对人对己没一点好处。</p>
-<h5 id="2"><a href="#2" class="headerlink" title="2"></a>2</h5><p>精神层次越高的人，对感情更专一。他们不会把养鱼这种肤浅的经验，当成得意的谈资。他们更善于处理自己的欲望，愿意跟相爱的人在浮躁的社会里，共同担起生活的风雨。所谓风流倜傥不代表优秀，朝三暮四是因为层次太低，欲望是人性，克制才是能力。你以为的魅力难挡，实则是廉价百搭.</p>
-<p>莫言在《晚熟的人》这本书里曾写道：“本性善良的人都晚熟，并且是被劣人催熟的，后来虽然开窍了，但他仍然善良与赤诚，不断寻找同类，蕞后变成蕞孤独的一个人。”</p>
-<p>因为生而善良，注定要经历更多风霜。晚熟之人，经得起打磨，内核依旧纯真温暖。</p>
-<p>孤傲的灵魂，在漫漫红尘里，寻找共鸣。</p>
-<h5 id="3"><a href="#3" class="headerlink" title="3"></a>3</h5><p>当时年少春衫薄。骑马倚斜桥，满楼红袖招</p>
-<h5 id="4"><a href="#4" class="headerlink" title="4"></a>4</h5><p>我才发现，一时的憧憬就如同手中的香烟一样，燃尽了也就随风而去了。</p>
-<h5 id="5"><a href="#5" class="headerlink" title="5"></a>5</h5><p>如果你觉得你学的知识毫无用处，那只能证明你还不具备使用它的资格，需要更加努力学习才对。</p>
-<h5 id="6"><a href="#6" class="headerlink" title="6"></a>6</h5><p>每到达一个陌生的地方，只要时间比较宽裕，我都会找一个比较安静的角落坐下来，看着周围，开始幻想这里曾经发生过什么。</p>
-<p>坐在那里，观察每一处细节，结合脑中了解的历史背景，想象着十年前，百年前，千年前有个什么样的人，站在我正站着的位置，他在思考什么，他正在朝哪里去，他是否会和我一样脑洞大开，想到多年以后有未来的人与自己的轨迹重合，搁着时间长河惊鸿一督。</p>
-<p>后来我知道了……这个能力叫做侧写。</p>
-<h5 id="7"><a href="#7" class="headerlink" title="7"></a>7</h5><p>问题：你会去原谅曾经伤害过你的人吗？</p>
-<p><strong>如果是我，我可以不计较，但我永远做不到原谅，不报复是我最大的善良。</strong></p>
-<h5 id="8"><a href="#8" class="headerlink" title="8"></a>8</h5><p>在迷情的舞池中一眼就锁定住了你的身姿，从此坠入万花筒般时空隧道 时而清醒，时而沉沦 就让时间停在此处，回味此刻。</p>
-<h5 id="9"><a href="#9" class="headerlink" title="9"></a>9</h5><p>暗恋是一场太阳雨，隐秘而盛大，潮湿却不阴暗。</p>
-<h5 id="10"><a href="#10" class="headerlink" title="10"></a>10</h5><p>泡夜店、纹身、打洞、买醉这些事看似很酷，其实这些事一点难度都没有，只要你愿意去做就能做到。更酷的应该是那些不容易做到的事，比如看书、健身、赚钱、用心爱一个人，这种在常人看来无趣且难以坚持的事情。低级的欲望只要放纵即可获得，高级的欲望唯有克制才能达成。</p>
-<h5 id="11"><a href="#11" class="headerlink" title="11"></a>11</h5><p>强者是永远不会活在别人的期待与规则里的。</p>
-<h5 id="12"><a href="#12" class="headerlink" title="12"></a>12</h5><p>睡觉是上帝赐予你短暂失忆的时间.</p>
-<h5 id="13"><a href="#13" class="headerlink" title="13"></a>13</h5><p>“可惜你不听枫。更不知道枫的最后一句”</p>
-<p>“我要的只是你在我身边”。</p>
-<h5 id="14"><a href="#14" class="headerlink" title="14"></a>14</h5><p>我觉得真正的穷味是：你做的事情表现出你的时间很不值钱。</p>
-<h5 id="15"><a href="#15" class="headerlink" title="15"></a>15</h5><p>一直激励我的一段话：“你考的不是试，是是前途和暮年的欢喜，你桌面上的书</p>
-<p>本，是将来做选择时的意气和拒绝时的</p>
-<p>底气。”</p>
-<h5 id="16"><a href="#16" class="headerlink" title="16"></a>16</h5><p>晚自习下课，猝不及防，发现雨竟洒了一地。一个人落荒而逃，狼狈的回到宿舍。记忆中的雨天，是柔柔的雨，微微的风，还有你。</p>
-<h5 id="17"><a href="#17" class="headerlink" title="17"></a>17</h5><p>阿甘的妈妈说：If you are ever in trouble,don’t try to be brave,just run,just run away.</p>
+    <title>TrafficMonitorWindows：平台系统性能、网速监测工具</title>
+    <url>/2024/08/31/tech/TOOL/2024-06-23-TrafficMonitor/</url>
+    <content><![CDATA[<blockquote>
+<p>Traffic Monitor 是一款用于 Windows 平台的网速监控悬浮窗软件，可以显示当前网速、CPU 及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。</p>
+</blockquote>
+<h2 id="主要特性"><a href="#主要特性" class="headerlink" title="主要特性"></a>主要特性</h2><p>*显示当前实现网络传输速率、CPU 和内存占用率</p>
+<p>*如果电脑有多个网卡，支持自动和手动选择网络连接</p>
+<p>*查看网络详细信息</p>
+<p>*支持嵌入到任务栏显示</p>
+<p>*支持更换皮肤和自定义皮肤</p>
+<p>*历史流量统计</p>
+<p>*硬件信息监控</p>
+<h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><p>下载好软件后双击打开，程序在启动后会在屏幕中显示一个网速的悬浮窗。在悬浮窗上单机右键可以弹出右键菜单，可也更改软件的所有设置。</p>
+<p>同时任务栏窗口支持自定义显示项目，默认情况下只显示网速，如果需要显示 CPU 和内存利用率，请在任务栏右键菜单中的“显示设置”子菜单下勾选需要显示的项目</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231641276.png"
+                     
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643863.png"
+                     
+                ></p>
+  <br>
+
+<p>历史流量统计功能。TrafficMonitor 支持查看历史流量，可以按天、周、月、季、年等进行统计。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643646.png"
+                     
+                ></p>
+<p>而且这个软件也提供了这定义皮肤的功能除了软件提供的几个默认皮肤外观，用户可以根据自己的需求编辑自己喜欢的皮肤观样式。在主窗口或通知区图标右键菜单选择“其他功能”——“更换皮肤”可以打开换皮肤界面</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231648737.png"
+                     
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643795.png"
+                     
+                ></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>下载 TrafficMonitor 的最新版本</p>
+<p>GitHub 下载页面  <a class="link"   href="https://github.com/zhongyang219/TrafficMonitor/releases/" >https://github.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>国内用户如果遇到 Github 下载缓慢的问题，可以 点击此处<a class="link"   href="https://gitee.com/zhongyang219/TrafficMonitor/releases/" >https://gitee.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 转到此项目在 Gitee 上的页面。</p>
+<p>备用链接：<br>百度网盘下载 <a class="link"   href="https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg" >https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>提取码：ou0m</p>
+<br>
+TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包含了所有的功能，Lite 版本则不包含温度监控、显卡利用率、硬盘利用率等硬件监控功能。普通版运行需要管理员权限，而 Lite 版本则不需要。
+
+<p>以下是两个版本功能对比。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231651709.png"
+                     
+                ></p>
 ]]></content>
       <categories>
-        <category>短评</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>短评</tag>
+        <tag>TrafficMonitor tool</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SoundSwitch - 使用快捷键切换音频输入、输出设备[Windows]</title>
+    <url>/2024/08/31/tech/TOOL/2024-06-21-soundswitch/</url>
+    <content><![CDATA[<blockquote>
+<p>有些朋友的电脑上可能插着耳机、音箱、麦克风、耳麦多种音频的输出、输入设备，虽然系统在右下角有选择的设置，但如果每次都设置的话，那就很麻烦了。SoundSwitch 就是一款可以让你通过快捷键的方式，来实现快速切换音频输入、输出设备的功能。</p>
+</blockquote>
+<h2 id="SoundSwitch-概述"><a href="#SoundSwitch-概述" class="headerlink" title="SoundSwitch 概述"></a>SoundSwitch 概述</h2><p>该程序配置简单。您需要做的就是右键单击系统托盘图标以打开设置。从那里，您可以选择您喜欢的热键并选择&#x2F;取消选择设备，以便只有正确的设备可用于切换。</p>
+<p>一旦您满意了，他就会在后台静默运行。所做的所有选择都将被保存，以便他们再重新启动程序时准备就绪。热键可以让您快速选择&#x2F;切换您喜欢的播放设备（声卡）。</p>
+<p>您只需配置要在那些播放设备之间切换，然后按Ctrl+Alt+F11或自己设置的快捷键即可自动切换。</p>
+<h3 id="声音开关的特点"><a href="#声音开关的特点" class="headerlink" title="声音开关的特点"></a>声音开关的特点</h3><ul>
+<li><p>重量轻且易于使用</p>
+</li>
+<li><p>简单的热键设置</p>
+</li>
+<li><p>无需重新配置</p>
+</li>
+</ul>
+<h4 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h4><p>SoundSwitch<a class="link"   href="https://soundswitch.aaflalo.me/" >主页在这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，源码在<a class="link"   href="https://github.com/Belphemur/SoundSwitch" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>下载地址：<strong>SoundSwitch</strong> 官网下载页面：<a class="link"   href="https://soundswitch.aaflalo.me/" >这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://www.alipan.com/s/M5ufEnUYLx9" >阿里盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://pan.baidu.com/s/1lJDiS2vbd6Omr8Db9m-SVA?pwd=x1mi" >百度盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码: x1mi</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>SoundSwitch tool</tag>
       </tags>
   </entry>
   <entry>
@@ -458,52 +537,6 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
       <categories>
         <category>学习笔记</category>
       </categories>
-  </entry>
-  <entry>
-    <title>在MacOS中设置Ctrl+C/V进行复制/粘贴</title>
-    <url>/2024/08/31/tech/2024-8-1-MacOS%20set%20Ctrl+C:V/</url>
-    <content><![CDATA[<blockquote>
-<p>  初用MAC，很多习惯不同，虽然适应并不难。但因为键盘键位的问题，原本Ctrl+Z&#x2F;X&#x2F;C&#x2F;V&#x2F;A的时候可以用小指按Ctrl，字母键可以使用无名指中指食指。但Command键的位置就不行了，只能用拇指，顺带着字母键也只能用食指了，还各种扭曲难受。<br>&nbsp;</p>
-</blockquote>
-<p><big>其实只要设置一下，完全可以改回你习惯的样子。步骤如下：</big></p>
-<p>1.【系统偏好设置】【键盘】【快捷键】</p>
-<p>2.左边选择【应用快捷键】，在右侧添加快捷键即可。</p>
-<p><code> 剪切 ^X 复制 ^C 粘贴 ^V 全选 ^A 撤销键入 ^Z</code> </p>
-<p><big> 特别要注意：前面的文字要对应系统语言，比如你中文系统，设置成Cut、Copy就无效，反之英文系统设置成剪切、拷贝也不。</big></p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>SoundSwitch - 使用快捷键切换音频输入、输出设备[Windows]</title>
-    <url>/2024/08/31/tech/TOOL/2024-06-21-soundswitch/</url>
-    <content><![CDATA[<blockquote>
-<p>有些朋友的电脑上可能插着耳机、音箱、麦克风、耳麦多种音频的输出、输入设备，虽然系统在右下角有选择的设置，但如果每次都设置的话，那就很麻烦了。SoundSwitch 就是一款可以让你通过快捷键的方式，来实现快速切换音频输入、输出设备的功能。</p>
-</blockquote>
-<h2 id="SoundSwitch-概述"><a href="#SoundSwitch-概述" class="headerlink" title="SoundSwitch 概述"></a>SoundSwitch 概述</h2><p>该程序配置简单。您需要做的就是右键单击系统托盘图标以打开设置。从那里，您可以选择您喜欢的热键并选择&#x2F;取消选择设备，以便只有正确的设备可用于切换。</p>
-<p>一旦您满意了，他就会在后台静默运行。所做的所有选择都将被保存，以便他们再重新启动程序时准备就绪。热键可以让您快速选择&#x2F;切换您喜欢的播放设备（声卡）。</p>
-<p>您只需配置要在那些播放设备之间切换，然后按Ctrl+Alt+F11或自己设置的快捷键即可自动切换。</p>
-<h3 id="声音开关的特点"><a href="#声音开关的特点" class="headerlink" title="声音开关的特点"></a>声音开关的特点</h3><ul>
-<li><p>重量轻且易于使用</p>
-</li>
-<li><p>简单的热键设置</p>
-</li>
-<li><p>无需重新配置</p>
-</li>
-</ul>
-<h4 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h4><p>SoundSwitch<a class="link"   href="https://soundswitch.aaflalo.me/" >主页在这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，源码在<a class="link"   href="https://github.com/Belphemur/SoundSwitch" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>下载地址：<strong>SoundSwitch</strong> 官网下载页面：<a class="link"   href="https://soundswitch.aaflalo.me/" >这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://www.alipan.com/s/M5ufEnUYLx9" >阿里盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>&emsp;&emsp;&emsp;&emsp;&emsp;<a class="link"   href="https://pan.baidu.com/s/1lJDiS2vbd6Omr8Db9m-SVA?pwd=x1mi" >百度盘 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码: x1mi</p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>SoundSwitch tool</tag>
-      </tags>
   </entry>
   <entry>
     <title>Clash Verge 教程</title>
@@ -614,74 +647,41 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
       </tags>
   </entry>
   <entry>
-    <title>TrafficMonitorWindows：平台系统性能、网速监测工具</title>
-    <url>/2024/08/31/tech/TOOL/2024-06-23-TrafficMonitor/</url>
-    <content><![CDATA[<blockquote>
-<p>Traffic Monitor 是一款用于 Windows 平台的网速监控悬浮窗软件，可以显示当前网速、CPU 及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。</p>
-</blockquote>
-<h2 id="主要特性"><a href="#主要特性" class="headerlink" title="主要特性"></a>主要特性</h2><p>*显示当前实现网络传输速率、CPU 和内存占用率</p>
-<p>*如果电脑有多个网卡，支持自动和手动选择网络连接</p>
-<p>*查看网络详细信息</p>
-<p>*支持嵌入到任务栏显示</p>
-<p>*支持更换皮肤和自定义皮肤</p>
-<p>*历史流量统计</p>
-<p>*硬件信息监控</p>
-<h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><p>下载好软件后双击打开，程序在启动后会在屏幕中显示一个网速的悬浮窗。在悬浮窗上单机右键可以弹出右键菜单，可也更改软件的所有设置。</p>
-<p>同时任务栏窗口支持自定义显示项目，默认情况下只显示网速，如果需要显示 CPU 和内存利用率，请在任务栏右键菜单中的“显示设置”子菜单下勾选需要显示的项目</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231641276.png"
-                     
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643863.png"
-                     
-                ></p>
-  <br>
-
-<p>历史流量统计功能。TrafficMonitor 支持查看历史流量，可以按天、周、月、季、年等进行统计。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643646.png"
-                     
-                ></p>
-<p>而且这个软件也提供了这定义皮肤的功能除了软件提供的几个默认皮肤外观，用户可以根据自己的需求编辑自己喜欢的皮肤观样式。在主窗口或通知区图标右键菜单选择“其他功能”——“更换皮肤”可以打开换皮肤界面</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231648737.png"
-                     
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231643795.png"
-                     
-                ></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>下载 TrafficMonitor 的最新版本</p>
-<p>GitHub 下载页面  <a class="link"   href="https://github.com/zhongyang219/TrafficMonitor/releases/" >https://github.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>国内用户如果遇到 Github 下载缓慢的问题，可以 点击此处<a class="link"   href="https://gitee.com/zhongyang219/TrafficMonitor/releases/" >https://gitee.com/zhongyang219/TrafficMonitor/releases/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 转到此项目在 Gitee 上的页面。</p>
-<p>备用链接：<br>百度网盘下载 <a class="link"   href="https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg" >https://pan.baidu.com/share/init?surl=5PMt7s-ASpyDwtS__4cUhg <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>提取码：ou0m</p>
-<br>
-TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包含了所有的功能，Lite 版本则不包含温度监控、显卡利用率、硬盘利用率等硬件监控功能。普通版运行需要管理员权限，而 Lite 版本则不需要。
-
-<p>以下是两个版本功能对比。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231651709.png"
-                     
-                ></p>
+    <title>我收藏的短评01</title>
+    <url>/2024/08/31/daily/2024/2024-07-18-brief%20comment/</url>
+    <content><![CDATA[<h5 id="1"><a href="#1" class="headerlink" title="1"></a>1</h5><p>我认为参与和讨论政治的人还是应该有点理想主义，起码心中要能够想象自己最希望社会是什么样子，然后从这一点出发去构建自己的政治观念。太多的人的政治观念建立在“其他抱有某种观念的某些人曾经伤害过我的利益或者感情”之上，然后自己除了表达反对以外什么也说不出来，也不管那些人是不是真的还像以前一样对他有威胁。这样的人很容易被人利用，因为凡是能够实现他的反对的事他都愿意去</p>
+<p>做，但常常到头来发现反对之后事情的发展并不令自己满意，可以说是对人对己没一点好处。</p>
+<h5 id="2"><a href="#2" class="headerlink" title="2"></a>2</h5><p>精神层次越高的人，对感情更专一。他们不会把养鱼这种肤浅的经验，当成得意的谈资。他们更善于处理自己的欲望，愿意跟相爱的人在浮躁的社会里，共同担起生活的风雨。所谓风流倜傥不代表优秀，朝三暮四是因为层次太低，欲望是人性，克制才是能力。你以为的魅力难挡，实则是廉价百搭.</p>
+<p>莫言在《晚熟的人》这本书里曾写道：“本性善良的人都晚熟，并且是被劣人催熟的，后来虽然开窍了，但他仍然善良与赤诚，不断寻找同类，蕞后变成蕞孤独的一个人。”</p>
+<p>因为生而善良，注定要经历更多风霜。晚熟之人，经得起打磨，内核依旧纯真温暖。</p>
+<p>孤傲的灵魂，在漫漫红尘里，寻找共鸣。</p>
+<h5 id="3"><a href="#3" class="headerlink" title="3"></a>3</h5><p>当时年少春衫薄。骑马倚斜桥，满楼红袖招</p>
+<h5 id="4"><a href="#4" class="headerlink" title="4"></a>4</h5><p>我才发现，一时的憧憬就如同手中的香烟一样，燃尽了也就随风而去了。</p>
+<h5 id="5"><a href="#5" class="headerlink" title="5"></a>5</h5><p>如果你觉得你学的知识毫无用处，那只能证明你还不具备使用它的资格，需要更加努力学习才对。</p>
+<h5 id="6"><a href="#6" class="headerlink" title="6"></a>6</h5><p>每到达一个陌生的地方，只要时间比较宽裕，我都会找一个比较安静的角落坐下来，看着周围，开始幻想这里曾经发生过什么。</p>
+<p>坐在那里，观察每一处细节，结合脑中了解的历史背景，想象着十年前，百年前，千年前有个什么样的人，站在我正站着的位置，他在思考什么，他正在朝哪里去，他是否会和我一样脑洞大开，想到多年以后有未来的人与自己的轨迹重合，搁着时间长河惊鸿一督。</p>
+<p>后来我知道了……这个能力叫做侧写。</p>
+<h5 id="7"><a href="#7" class="headerlink" title="7"></a>7</h5><p>问题：你会去原谅曾经伤害过你的人吗？</p>
+<p><strong>如果是我，我可以不计较，但我永远做不到原谅，不报复是我最大的善良。</strong></p>
+<h5 id="8"><a href="#8" class="headerlink" title="8"></a>8</h5><p>在迷情的舞池中一眼就锁定住了你的身姿，从此坠入万花筒般时空隧道 时而清醒，时而沉沦 就让时间停在此处，回味此刻。</p>
+<h5 id="9"><a href="#9" class="headerlink" title="9"></a>9</h5><p>暗恋是一场太阳雨，隐秘而盛大，潮湿却不阴暗。</p>
+<h5 id="10"><a href="#10" class="headerlink" title="10"></a>10</h5><p>泡夜店、纹身、打洞、买醉这些事看似很酷，其实这些事一点难度都没有，只要你愿意去做就能做到。更酷的应该是那些不容易做到的事，比如看书、健身、赚钱、用心爱一个人，这种在常人看来无趣且难以坚持的事情。低级的欲望只要放纵即可获得，高级的欲望唯有克制才能达成。</p>
+<h5 id="11"><a href="#11" class="headerlink" title="11"></a>11</h5><p>强者是永远不会活在别人的期待与规则里的。</p>
+<h5 id="12"><a href="#12" class="headerlink" title="12"></a>12</h5><p>睡觉是上帝赐予你短暂失忆的时间.</p>
+<h5 id="13"><a href="#13" class="headerlink" title="13"></a>13</h5><p>“可惜你不听枫。更不知道枫的最后一句”</p>
+<p>“我要的只是你在我身边”。</p>
+<h5 id="14"><a href="#14" class="headerlink" title="14"></a>14</h5><p>我觉得真正的穷味是：你做的事情表现出你的时间很不值钱。</p>
+<h5 id="15"><a href="#15" class="headerlink" title="15"></a>15</h5><p>一直激励我的一段话：“你考的不是试，是是前途和暮年的欢喜，你桌面上的书</p>
+<p>本，是将来做选择时的意气和拒绝时的</p>
+<p>底气。”</p>
+<h5 id="16"><a href="#16" class="headerlink" title="16"></a>16</h5><p>晚自习下课，猝不及防，发现雨竟洒了一地。一个人落荒而逃，狼狈的回到宿舍。记忆中的雨天，是柔柔的雨，微微的风，还有你。</p>
+<h5 id="17"><a href="#17" class="headerlink" title="17"></a>17</h5><p>阿甘的妈妈说：If you are ever in trouble,don’t try to be brave,just run,just run away.</p>
 ]]></content>
       <categories>
-        <category>工具</category>
+        <category>短评</category>
       </categories>
       <tags>
-        <tag>TrafficMonitor tool</tag>
+        <tag>短评</tag>
       </tags>
   </entry>
 </search>
