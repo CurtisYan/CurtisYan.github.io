@@ -294,6 +294,14 @@ h1 {
 <p>然后保存</p>
 <p>3.打开cs2指令台输bind c “+jp;+ak”</p>
 <p>这个c就是一键跳投，你习惯啥键就绑啥键</p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>目前CS2无法使用跳投</p>
+
+  </div>
+
+
+
 <p>换手指令：<code>bindtoggle &quot;v&quot; &quot;cl_righthand&quot; 0 1</code> <small>设置中可以更改</small></p>
 <p>持枪视角1：<code>viewmodel_fov68;viewmodel_offset_x2;viewmodel_offset_y 2;viewmodel_offset_z-2;viewmodel_presetpos 0;</code></p>
 <p>持枪视角2：<code>Viewmodel_fov 68;Viewmodel_offset_x 2.5;Viewmodel_offset_y 2.0;Viewmodel_offset_z -1.7;Viewmodel_presetpos 0</code></p>
@@ -313,6 +321,13 @@ h1 {
 跑图必备指令↓，包括，无限金钱，无限血量，无限道具
 复制输入到控制台后，按*启动。   
 <small>丢刀后，对准刀按F1切换为蝴蝶刀，F3开启飞行</small>
+
+<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>点击查看更多 </summary>
+              <div class='content'>
+              <p>bind “F3” “noclip”;bind p “bot_place 1”;bind “F1” “subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;”;bind “kp_multiply” “sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;”</p>
+              </div>
+            </details>
+
 <details>
 <summary>展开查看</summary>
 bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;";bind "kp_multiply" "sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;"</details>  
@@ -682,6 +697,86 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
       </categories>
       <tags>
         <tag>短评</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Telegram电报设置中文教程</title>
+    <url>/2024/09/03/tech/2024-9-3-Telegram%20setting%20Chinese/</url>
+    <content><![CDATA[<blockquote>
+<p>  Telegram是一款端对端加密的即时聊天工具，也称为TG或电报。然而，美中不足的是Telegram的界面语言没有中文。于是，我们整理了Telegram设置中文的方法（简体中文与繁体中文），供需要的朋友使用</p>
+<blockquote>
+<p>​	说明：Telegram 官方只开放了语言包翻译接口, 官方并没有提供中文语言包。目前所有的中文语言包都是非官方用户翻译的。有些语言包都很久没更新了(甚至停更了)。</p>
+</blockquote>
+</blockquote>
+<h2 id="Telegram中文设置步骤"><a href="#Telegram中文设置步骤" class="headerlink" title="Telegram中文设置步骤"></a><strong>Telegram中文设置步骤</strong></h2><h3 id="电脑版Telegram中文设置方法"><a href="#电脑版Telegram中文设置方法" class="headerlink" title="电脑版Telegram中文设置方法"></a><strong>电脑版Telegram中文设置方法</strong></h3><h5 id="1、打开并登录Telegram软件"><a href="#1、打开并登录Telegram软件" class="headerlink" title="1、打开并登录Telegram软件"></a>1、打开并登录Telegram软件</h5><h5 id="2、点击以下链接"><a href="#2、点击以下链接" class="headerlink" title="2、点击以下链接"></a>2、点击以下链接</h5><p>简体中文（翻译完成度高）：</p>
+<p><a class="link"   href="https://t.me/setlanguage/zhcncc" >https://t.me/setlanguage/zhcncc <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>繁体中文（中国香港，翻译完成度99%）：</p>
+<p><a class="link"   href="https://t.me/setlanguage/zh-hant-raw" >https://t.me/setlanguage/zh-hant-raw <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>繁体中文（中国台湾，翻译完成度99%）：</p>
+<p><a class="link"   href="https://t.me/setlanguage/zh-hant-beta" >https://t.me/setlanguage/zh-hant-beta <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h5 id="3、如下图所示，点击弹出的“打开Telegram-Desktop”，电脑会自动打开Telegram-软件"><a href="#3、如下图所示，点击弹出的“打开Telegram-Desktop”，电脑会自动打开Telegram-软件" class="headerlink" title="3、如下图所示，点击弹出的“打开Telegram Desktop”，电脑会自动打开Telegram 软件"></a>3、如下图所示，点击弹出的“打开Telegram Desktop”，电脑会自动打开Telegram 软件</h5><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030036065.png"
+                      style="zoom:67%;" 
+                >
+
+<h5 id="4、在Telegram-软件内会出现弹窗，这个界面显示了该中文语言包的翻译进度（X-），点击“Apply-Language”，应用该语言包"><a href="#4、在Telegram-软件内会出现弹窗，这个界面显示了该中文语言包的翻译进度（X-），点击“Apply-Language”，应用该语言包" class="headerlink" title="4、在Telegram 软件内会出现弹窗，这个界面显示了该中文语言包的翻译进度（X%），点击“Apply Language”，应用该语言包"></a>4、在Telegram 软件内会出现弹窗，这个界面显示了该中文语言包的翻译进度（X%），点击“Apply Language”，应用该语言包</h5><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030038276.png"
+                      style="zoom:67%;" 
+                >
+
+<p>最后，你的Telegram（电报）会设置成中文了。下图展示为TG的简体中文版</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030039754.png"
+                      style="zoom: 50%;" 
+                >
+
+<h3 id="手机版Telegram中文设置方法"><a href="#手机版Telegram中文设置方法" class="headerlink" title="手机版Telegram中文设置方法"></a><strong>手机版Telegram中文设置方法</strong></h3><h5 id="1、在手机上登录Telegram-APP"><a href="#1、在手机上登录Telegram-APP" class="headerlink" title="1、在手机上登录Telegram APP"></a>1、在手机上登录Telegram APP</h5><h5 id="2、将以下链接复制到电报里的Saved-Messages，并点击该链接；或者将链接复制到手机浏览器并访问，点击“SET-LANGUAGE”"><a href="#2、将以下链接复制到电报里的Saved-Messages，并点击该链接；或者将链接复制到手机浏览器并访问，点击“SET-LANGUAGE”" class="headerlink" title="2、将以下链接复制到电报里的Saved Messages，并点击该链接；或者将链接复制到手机浏览器并访问，点击“SET LANGUAGE”"></a>2、将以下链接复制到电报里的Saved Messages，并点击该链接；或者将链接复制到手机浏览器并访问，点击“SET LANGUAGE”</h5><p>简体中文（翻译完成度高）：</p>
+<p><a class="link"   href="https://t.me/setlanguage/zhcncc" >https://t.me/setlanguage/zhcncc <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>繁体中文（中国香港，翻译完成度99%）：</p>
+<p><a class="link"   href="https://t.me/setlanguage/zh-hant-raw" >https://t.me/setlanguage/zh-hant-raw <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>繁体中文（中国台湾，翻译完成度99%）：</p>
+<p><a class="link"   href="https://t.me/setlanguage/zh-hant-beta" >https://t.me/setlanguage/zh-hant-beta <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030040089.png"
+                      style="zoom: 25%;" 
+                >
+
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030040863.png"
+                      style="zoom: 25%;" 
+                >
+
+<h5 id="3、如下图所示，点击之后，会在TG-APP内显示弹窗，选择“Change”"><a href="#3、如下图所示，点击之后，会在TG-APP内显示弹窗，选择“Change”" class="headerlink" title="3、如下图所示，点击之后，会在TG APP内显示弹窗，选择“Change”"></a>3、如下图所示，点击之后，会在TG APP内显示弹窗，选择“Change”</h5><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030042987.png"
+                      style="zoom:25%;" 
+                >
+
+<p>最后，你的Telegram APP成功设置成中文版</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030042989.png"
+                      style="zoom:25%;" 
+                >]]></content>
+      <categories>
+        <category>教程, 设置</category>
+      </categories>
+      <tags>
+        <tag>Telegram</tag>
+        <tag>Chinese</tag>
+        <tag>电报</tag>
       </tags>
   </entry>
 </search>
