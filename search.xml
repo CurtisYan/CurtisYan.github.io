@@ -769,7 +769,13 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
                      src="/images/loading.svg"
                      data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409030042989.png"
                       style="zoom:25%;" 
-                >]]></content>
+                >
+
+
+  <div class="note p-4 mb-4 rounded-small tip">
+    <p>本文转载自*<u><a class="link"   href="https://x.com/0xcheshire?s=21" >Web3小柴郡 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></u>*，请关注他<a class="link"   href="https://x.com/0xcheshire?s=21" >Twitter <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+
+  </div>]]></content>
       <categories>
         <category>教程, 设置</category>
       </categories>
