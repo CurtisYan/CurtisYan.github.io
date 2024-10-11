@@ -785,4 +785,97 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
         <tag>电报</tag>
       </tags>
   </entry>
+  <entry>
+    <title>关于 Follow 的思考</title>
+    <url>/2024/10/11/tech/TOOL/2024-10-11-Thinking%20about%20Follow/</url>
+    <content><![CDATA[<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410111822053.png"
+                     
+                ></p>
+<p>follow 内测版，浏览体验很好，交互丝滑，发现一个很有意思的 recent reader 功能！<em><strong>🔥</strong></em></p>
+<p>还可以很方便地 follow Twitter 动态、TG Channel、B 站 up 动态&#x2F;视频等 RSSHub 支持的很多订阅</p>
+<p><a class="link"   href="https://innei.in/posts/design/design-concepts-in-follow-app" >Follow 作者浅谈 Follow 中的设计理念 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>Follow RSS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在Mac上使用微信输入法的最佳解决方案，避免错误切换到ABC输入法（KeyboardHolder）</title>
+    <url>/2024/10/11/tech/TOOL/2024-10-11-Using%20WeChat%20Input%20Method%20on%20Mac/</url>
+    <content><![CDATA[<blockquote>
+<p>因为iPhone和mac之间的接力总是抽风，经常复制粘贴不好用，所以我还是全面转到稳定好用的微信输入法作为跨设备的剪切板传输工具。但是因为macOS的限制，我们可以看到：</p>
+<blockquote>
+<p>1.iPhone无法读取最新复制的信息<br>2.mac如果没有在微信输入法状态下，则无法获取最新的剪切板信息</p>
+</blockquote>
+<p>那这个文章就来分享一下我是如何解决mac中的abc输入法难题以及如何快速方便的剪切板跨设备共享。</p>
+</blockquote>
+<h3 id="KeyboardHolder"><a href="#KeyboardHolder" class="headerlink" title="KeyboardHolder"></a>KeyboardHolder</h3><p>你在不同软件中切换输入法的小工具。这个工具可以实现等同于“删除ABC输入法”的效果。我们将所有的设置都改为微信输入法，这样就可以避免在奇怪的场景下莫名其妙切换到abc输入法的问题。</p>
+<h4 id="软件官网"><a href="#软件官网" class="headerlink" title="软件官网"></a><a class="link"   href="https://keyboardholder.leavesc.com/zh-cn/" >软件官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p>下载好软件后双击打开，程序在启动后会在屏幕中显示一个网速的悬浮窗。在悬浮窗上单机右键可以弹出右键菜单，可也更改软件的所有设置。</p>
+<p>同时任务栏窗口支持自定义显示项目，默认情况下只显示网速，如果需要显示 CPU 和内存利用率，请在任务栏右键菜单中的“显示设置”子菜单下勾选需要显示的项目</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410111756170.png"
+                      style="zoom:33%;" 
+                >
+
+
+
+
+  <br>
+
+<p>设置方法：</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410111755799.png"
+                      style="zoom: 33%;" 
+                >
+
+<br>
+
+<p>我是将开发软件与utools都设置为英文了。然后我们需要开启使用shift切换中英文：</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410111759927.png"
+                      style="zoom: 33%;" 
+                >
+
+<br>
+
+<p>我们就完成了基本的配置。现在可以实现全程使用微信输入法了。如果想避免误触中英文键切换到abc，我们可以在系统设置中设置一下，关闭  <em><strong>使用大写锁定键切换 “ABC”输入法</strong></em> :</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410111805624.png"
+                      style="zoom:33%;" 
+                >
+
+
+
+<h3 id="iPhone将剪切板内容传递到微信输入法"><a href="#iPhone将剪切板内容传递到微信输入法" class="headerlink" title="iPhone将剪切板内容传递到微信输入法"></a>iPhone将剪切板内容传递到微信输入法</h3><p>我的方法就是复制内容之后，回到主页下拉调用搜索。因为搜索的时候会呼出输入法，实现剪切板内容传递到微信输入法的效果。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410111809112.png"
+                      style="zoom:25%;" 
+                >
+
+
+
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>微信输入法 KeyboardHolder</tag>
+      </tags>
+  </entry>
 </search>
