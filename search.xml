@@ -272,7 +272,7 @@ h1 {
 <h1 id="基础设置与指令"><a href="#基础设置与指令" class="headerlink" title="基础设置与指令"></a>基础设置与指令</h1><h3 id="推荐准星"><a href="#推荐准星" class="headerlink" title="推荐准星"></a>推荐准星</h3><p>代码：</p>
 <p><code>CSGO-D2vJL-VGer3-FPEtz-JttQd-97DRE</code>（十字）<br><code>CSGO-qFLSa-CQS6a-aJWKN-QZNPC-LSJvM</code>（绿圆形）<br><code>CSGO-daEbe-dMEpY-7qzen-ECUyG-sjwjN</code>（小圆点）<br><code>CSGO-VDaMd-xedXq-kpWmd-aNv9e-KxQRO</code>（极小圆点）<br><code>CSGO-xStGr-MyZVQ-QDeJV-zYGxW-wOJvM</code>（黄小圆形）<br><code>CSGO-jQx5T-f7moo-kwd7v-om3hc-RMQNN</code>（donk小十字）    </p>
 <blockquote>
-<p>分辨率：1920*1440  </p>
+<p>分辨率：4:3 1920*1440 	 <em>双线性，抗锯齿选无（目的是在1920*1440分辨率下尽可能低延迟）</em></p>
 <p>dpi：800*1.25，狙0.83  </p>
 <p>m_yaw 0.0165</p>
 </blockquote>
@@ -306,6 +306,9 @@ h1 {
 <p>持枪视角1：<code>viewmodel_fov68;viewmodel_offset_x2;viewmodel_offset_y 2;viewmodel_offset_z-2;viewmodel_presetpos 0;</code></p>
 <p>持枪视角2：<code>Viewmodel_fov 68;Viewmodel_offset_x 2.5;Viewmodel_offset_y 2.0;Viewmodel_offset_z -1.7;Viewmodel_presetpos 0</code></p>
 <p>滚轮跳：<code>bind mwheeldown +jump</code></p>
+<p>按C快速转身：</p>
+<p><small>（像我设置了4:3分辨率的m_yaw指令，导致我实际edpi为1000*0.75&#x3D;750，故进行180度转身时，我会按下C改变m_yaw的数值实现快速转身）</small></p>
+<p><code>alias &quot;+spin&quot; &quot;m_yaw 0.037&quot;</code><br><code>alias &quot;-spin&quot; &quot;m_yaw 0.0165&quot;</code><br><code>bind C &quot;+spin&quot;</code></p>
 <p>关闭曳光弹：<code>r_drawtracers_firstperson 0</code></p>
 <p>手臂晃动开启：<code>cl_usenewbob 1</code>   <small>CS2开启手臂晃动实际体验更舒服</small></p>
 <p>一键静音：<code>bind 任意键 &quot;toggle voice_modenable 1 0&quot;</code>  <small>残局专用，<small>设置中可以更改</small></small></p>
@@ -331,6 +334,7 @@ h1 {
 <details>
 <summary>展开查看</summary>
 bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;";bind "kp_multiply" "sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;"</details>  
+
 <br>
 
 <p>按J重复上一次道具：<code>bind &quot;j&quot; sv_rethrow_last_grenade</code></p>
@@ -354,6 +358,25 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
 <p>按照顺序输入</p>
 <p>指令1: <code>mp_randomspawn 1</code>随机刷新</p>
 <p>指令2: <code>mp_restartgame 1</code> 重开游戏</p>
+<h3 id="启动项："><a href="#启动项：" class="headerlink" title="启动项："></a>启动项：</h3><p>-novid +r_fullscreen_gamma 2.6 -highpriority -nojoy -console Windowed -w 1920 -h 1440</p>
+<ul>
+<li><p>-novid：跳过开场动画</p>
+</li>
+<li><p>-worldwide：国际服</p>
+</li>
+<li><p>-perfectworld：国服</p>
+</li>
+<li><p>-highpriority(-high)：高优先级，就是要求CPU处理运算CS时是最高优先级，提高性能</p>
+</li>
+<li><p>-nojoy：不用摇杆</p>
+</li>
+<li><p>-console：打开游戏的时候自动打开控制台</p>
+</li>
+<li><p>-r_fullscreen_gamma：调整伽马值，默认2.2，参数2.6的光线偏暗像CSGO风格</p>
+</li>
+<li><p>-w -h：设置分辨率</p>
+</li>
+</ul>
 <h3 id="快捷更换CS设置的方法（730文件夹）"><a href="#快捷更换CS设置的方法（730文件夹）" class="headerlink" title="快捷更换CS设置的方法（730文件夹）"></a>快捷更换CS设置的方法（730文件夹）</h3><p>当我们玩别人号时，为了获得良好的游戏体验。总要调回自己的设置调半天，但是只要把cs里面存放设置cfg文件的文件夹保存下来即可快捷换号。</p>
 <p><figure class="image-caption"><img  
                      lazyload
@@ -880,7 +903,7 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
   </entry>
   <entry>
     <title>2024.10.22交易员日记01-关于BTC的预测</title>
-    <url>/2024/10/23/daily/2024/2024-10-22-diary02-Compulsory%20position/</url>
+    <url>/2024/10/23/daily/2024/2024-10-22-BTCdiary01-Compulsory%20position/</url>
     <content><![CDATA[<blockquote>
 <p>今天早上起床就被强平啦</p>
 </blockquote>
@@ -905,8 +928,8 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
   </entry>
   <entry>
     <title>2024.10.22交易员日记02-牛市来临！！！</title>
-    <url>/2024/10/23/daily/2024/2024-10-30-diary03-The%20bull%20market/</url>
-    <content><![CDATA[<p><strong>牛旗已经成立，再跌下来就不讲理了。</strong></p>
+    <url>/2024/10/23/daily/2024/2024-10-30-BTCdiary02-The%20bull%20market/</url>
+    <content><![CDATA[<p>**牛旗已经成立，再跌下来就不讲理了。 **</p>
 <p><strong>这轮如果正如预期，将开启4个月的牛市后期，兄弟们，准备接受主升浪的疯狂吧。</strong></p>
 <img  
                      lazyload
@@ -915,17 +938,12 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
                       style="zoom:33%;" 
                 >
 
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202410300030075.png"
-                      style="zoom:33%;" 
-                >]]></content>
+]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>BTC, 币圈, 牛市</tag>
+        <tag>BTC; 币圈 ; 牛市</tag>
       </tags>
   </entry>
 </search>
