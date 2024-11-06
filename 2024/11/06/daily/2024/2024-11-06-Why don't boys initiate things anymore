@@ -13,16 +13,20 @@
     
     <!--- Seo Part-->
     
-    <link rel="canonical" href="http://example.com/archives/2024/page/2/"/>
+    <link rel="canonical" href="http://example.com/2024/11/06/daily/2024/2024-11-06-why don't boys initiate things anymore"/>
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="revisit-after" content="1 days">
     
-        <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://example.com/archives/2024/page/2/index.html">
+        <meta name="description" content="转载自知乎，作者是*@伊佐夫 *。4年前的文章了，有见解有深度。  这问题变着花样出现………… 而且热度只增不减……… 我以前是感觉知乎好像 需要这些东西来挑起热度………… 现在是确信了知乎真的需要这些东西挑起热度………… 还是装模做样的上钩下吧。 因为这是一个自闭的时代。 我们在朝着日本人前进。日本在朝着美国前进。美国现在啥样不用我说了吧？ 当经济水平上升， 而阶级固化又逐渐严重的时候。一个普">
+<meta property="og:type" content="article">
+<meta property="og:title" content="为什么现在的男生都不主动了呢？">
+<meta property="og:url" content="http://example.com/2024/11/06/daily/2024/2024-11-06-Why%20don't%20boys%20initiate%20things%20anymore">
 <meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="转载自知乎，作者是*@伊佐夫 *。4年前的文章了，有见解有深度。  这问题变着花样出现………… 而且热度只增不减……… 我以前是感觉知乎好像 需要这些东西来挑起热度………… 现在是确信了知乎真的需要这些东西挑起热度………… 还是装模做样的上钩下吧。 因为这是一个自闭的时代。 我们在朝着日本人前进。日本在朝着美国前进。美国现在啥样不用我说了吧？ 当经济水平上升， 而阶级固化又逐渐严重的时候。一个普">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2024-11-05T16:30:50.649Z">
+<meta property="article:modified_time" content="2024-11-05T16:31:28.119Z">
 <meta property="article:author" content="John Doe">
 <meta name="twitter:card" content="summary">
     
@@ -36,7 +40,7 @@
     
     <title>
         
-            归档: 2024 -
+            为什么现在的男生都不主动了呢？ -
         
         江南易的技术博客
     </title>
@@ -313,7 +317,7 @@
 
                             <li class="navbar-item">
                                 <!-- Menu -->
-                                <a class="active"
+                                <a class=""
                                    href="/archives/"
                                         >
                                     <i class="fa-regular fa-archive fa-fw"></i>
@@ -441,7 +445,7 @@
 
                     <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
                         
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
                            href="/archives/"
                         >
                             <span>
@@ -588,181 +592,233 @@
             <div class="main-content">
 
                 
-                    <div class="archive-container shadow-none hover:shadow-none sm:shadow-redefine sm:hover:shadow-redefine-hover">
-    
-<div class="archive-list-container">
-    
-        <section class="archive-item mb-spacing-unit last:mb-0">
-            <div class="archive-item-header flex flex-row items-center mb-2">
-                <span class="archive-year font-semibold text-3xl mr-2">2024</span>
-                <span class="archive-year-post-count text-xs md:text-sm font-bold rounded-small bg-third-background-color py-[2px] px-[10px] border border-border-color">19</span>
-            </div>
+                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
+    <div class="article-content-container">
+
+        <div class="article-title relative w-full">
             
-            <ul class="article-list pl-0 md:pl-8 text-lg leading-[1.5]">
-                
-                    
-                    
-                         <!-- Close the previous LI if not the first item -->
-                        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='11-06'>
-                    
-                    <a href="/2024/11/06/tech/2024-11-6-IP/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">机场套餐，开出多个指纹浏览器环境的教程</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/11/06/daily/2024/2024-11-06-Why%20don't%20boys%20initiate%20things%20anymore?/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">为什么现在的男生都不主动了呢？</span>
-                    </a>
-                    
-                
-                    
-                    
+                <div class="w-full flex items-center pt-6 justify-start">
+                    <h1 class="article-title-regular text-second-text-color tracking-tight text-4xl md:text-6xl font-semibold px-2 sm:px-6 md:px-8 py-3">为什么现在的男生都不主动了呢？</h1>
+                </div>
+            
+            </div>
+
+        
+            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
+                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
+                    <img src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032300481.jpg">
+                </div>
+                <div class="info flex flex-col justify-between">
+                    <div class="author flex items-center">
+                        <span class="name text-default-text-color text-lg font-semibold">CurtisYan</span>
                         
-                            </li>
-                         <!-- Close the previous LI if not the first item -->
-                        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='10-23'>
-                    
-                    <a href="/2024/10/23/daily/2024/2024-10-22-BTCdiary01-Compulsory%20position/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">2024.10.22交易员日记01-关于BTC的预测</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/10/23/daily/2024/2024-10-30-BTCdiary02-The%20bull%20market/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">2024.10.22交易员日记02-牛市来临！！！</span>
-                    </a>
-                    
-                
-                    
-                    
+                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv3</span>
                         
-                            </li>
-                         <!-- Close the previous LI if not the first item -->
-                        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='10-11'>
-                    
-                    <a href="/2024/10/11/tech/TOOL/2024-10-11-Thinking%20about%20Follow/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">关于 Follow 的思考</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/10/11/tech/TOOL/2024-10-11-Using%20WeChat%20Input%20Method%20on%20Mac/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">在Mac上使用微信输入法的最佳解决方案，避免错误切换到ABC输入法（KeyboardHolder）</span>
-                    </a>
-                    
-                
-                    
-                    
-                        
-                            </li>
-                         <!-- Close the previous LI if not the first item -->
-                        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-03'>
-                    
-                    <a href="/2024/09/03/tech/2024-9-3-Telegram%20setting%20Chinese/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">Telegram电报设置中文教程</span>
-                    </a>
-                    
-                
-                    
-                    
-                        
-                            </li>
-                         <!-- Close the previous LI if not the first item -->
-                        <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-31'>
-                    
-                    <a href="/2024/08/31/about/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">Welcome，在这里你可以初步认识我</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/tech/2024-06-13-Forbid%20QQMusic%20background%20upload/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">禁止QQ音乐后台上传</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/tech/2024-8-1-MacOS%20set%20Ctrl+C:V/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">在MacOS中设置Ctrl+C/V进行复制/粘贴</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/game/2024-06-21-CS2%20map%20Chinese%20point%20name%20/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">CS2地图最新中文报点大全！</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/game/2024-06-21-CS2%20map%20English%20point%20name/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">CS2地图最新英文报点大全！</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/game/2024-06-21-myCS_setting/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">我的CS设置</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/daily/2024/2024-05-17-diary01-println_error/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">2024.5.17有感而发-关于println报错的解决</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/tech/TOOL/2024-06-23-TrafficMonitor/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">TrafficMonitorWindows：平台系统性能、网速监测工具</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/tech/TOOL/2024-06-21-soundswitch/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">SoundSwitch - 使用快捷键切换音频输入、输出设备[Windows]</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/tech/IOT/2024-05-16-JavaScript-mqtt-temperaturedemo/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">IoT技术选型及模型设计的思考</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/tech/TOOL/2024-05-22-Clash%20Verge/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">Clash Verge 教程</span>
-                    </a>
-                    
-                
-                    
-                    
-                    <a href="/2024/08/31/daily/2024/2024-07-18-brief%20comment/" class="block overflow-hidden w-fit">
-                        <span class="article-title my-0.5 text-2xl">我收藏的短评01</span>
-                    </a>
-                    
-                
-                </li> <!-- Ensure the last item is properly closed -->
-            </ul>
-        </section>
+                    </div>
+                    <div class="meta-info">
+                        <div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="desktop">2024-11-06 00:30:50</span>
+        <span class="mobile">2024-11-06 00:30:50</span>
+        <span class="hover-info">创建</span>
+    </span>
+    
+        <span class="article-date article-meta-item">
+            <i class="fa-regular fa-wrench"></i>&nbsp;
+            <span class="desktop">2024-11-06 00:31:28</span>
+            <span class="mobile">2024-11-06 00:31:28</span>
+            <span class="hover-info">更新</span>
+        </span>
+    
+
+    
+    
+
+    
+    
+        <span class="article-wordcount article-meta-item">
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>2.2k 字</span>
+        </span>
+    
+    
+        <span class="article-min2read article-meta-item">
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>7 分钟</span>
+        </span>
+    
+    
+        <span class="article-pv article-meta-item">
+            <i class="fa-regular fa-eye"></i>&nbsp;<span id="busuanzi_value_page_pv"></span>
+        </span>
     
 </div>
 
+                    </div>
+                </div>
+            </div>
+        
+
+        
+
+
+        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
+            <blockquote>
+<p>转载自<a target="_blank" rel="noopener" href="https://www.zhihu.com/question/323094998/answer/1402642176?utm_medium=social&utm_oi=1234553464145354752&utm_psn=1714937401829638144&utm_source=ZHShareTargetIDMore"><span style="color: blue;">知乎</span></a>，作者是*<a class="link"   target="_blank" rel="noopener" href="https://www.zhihu.com/people/yi-zuo-fu" >@伊佐夫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>*。4年前的文章了，有见解有深度。</p>
+</blockquote>
+<p>这问题变着花样出现…………</p>
+<p>而且热度只增不减………</p>
+<p>我以前是感觉知乎好像 需要这些东西来挑起热度…………</p>
+<p>现在是确信了知乎真的需要这些东西挑起热度…………</p>
+<p>还是装模做样的上钩下吧。</p>
+<p>因为这是一个自闭的时代。</p>
+<p>我们在朝着日本人前进。日本在朝着美国前进。美国现在啥样不用我说了吧？</p>
+<p>当经济水平上升， 而阶级固化又逐渐严重的时候。一个普通人，他就恰好处于一个两头都不好走的大马路上。此时，他看见自己比真正的穷人好过得多，而再往上的路困难重重，甚至是九死一生。生物的本能会告诉你，现在就这样挺好，真的挺好。</p>
+<p>而理论上讲，一个人如果不想着发展自己，那就应该想着传宗接代啊</p>
+<p>那么为何人生的追求自闭，会连带着对妹子的追求也自闭呢？一般来讲还是因为此时妹子还没有自闭。</p>
+<p>妹子的阶级没有固化，相反，妹子睁眼发现自己周围的环境反而是极端的机会主义，一不小心当个网红，一不小心当个二奶，人生轨迹就截然不同。而这一切的发生，又不需要长时间的刻苦拼搏，而是依然机会主义的靠脸，靠身材。</p>
+<p>所以，男性逐渐安于现状过上老年生活的时候，女性却在”爸爸”的人选越来越多的今天，越发生怕自己放过了可能的跃迁机会。</p>
+<p>虽然说得很夸张，但是找一个比自己强很多的男人，整个性质就是找”爸爸”。</p>
+<p>这种思想，造就了男人追女生的绝大多数压力。而此时的男人，又很佛。</p>
+<p>这个造就可以是正面的，也可以是侧面的。比如正面的影响，一个妹子找了普通男友，一个找了高富帅，前者就超级不平衡。又比如间接影响，一个妹子没有谈过恋爱，但是她听见过找高富帅的人不少，她就会也觉得自己是想往那个方向靠的。</p>
+<p>女性找比自己强的男性是天性这是没错的，但是我们的现状明显是超越了大自然对这一条的设计。</p>
+<p>女性天生找比自己强的男人，理论上就是指，男性比女性体力强，男性比女性擅长制定计划，分析状况这些，是的没了。女生本就经常会被男生的这些部分撩到。</p>
+<p>体力和逻辑，就是一直以来女性在筛选的优质男人，也所以才造就了男性这两项发达。</p>
+<p>但是今天的问题是，经常出现一个男人他身体结实，他头脑聪明，但是他很穷。</p>
+<p>尤其是在他根本没有几百万，几百万却都已经不是什么大钱的今天，这个情况越发常见。</p>
+<p>妹子正是被一个精神小伙的高瞻远瞩，身强力壮吸引得眼冒星星的时候，一个精神大款从直升机上嗦梯子下来把妹子抱走又嗦回去飞走了。</p>
+<p>而妹子这种生物，又是在被精神大款抱住的时候不会有任何反抗的生物。她的基因里就不会反抗雄性阿尔法。就算少数有头脑会反抗的，也是拼命告诉自己”精神大款只是给我一次好处，精神小伙会付出一辈子好处”，但是一旦精神大款的一次好处，有精神小伙的十年付出那么多，那么这个算账机制也就报废了。更有甚者，大款只需要玩玩的意思别太明显，妹子就自己觉得能一辈子，自己攻略自己，自动排除精神小伙，并且祝他过得更好。</p>
+<p>大自然设计男女的时候，本以为男人的区别最多只是一头鹿和两头鹿，没想到还有”钱”这种降维打击。</p>
+<p>而同时，本来有更多鹿的男性会有更多雌性来分，这样一个雌性还不一定分到一头鹿。所以也有妹子选择普通雄性。</p>
+<p>现在雄性阿尔法只有一个皇后位，雌性简直眼红炸了。</p>
+<p>那么面对设计者的漏洞，精神小伙就原地自闭了。</p>
+<p><em>（雌性的这些行为是正常的， 我没有谴责谁。但是这又是男性自闭的直接来源，这不是找理由能解决的事）</em></p>
+<hr>
+<p>当然，一般没有那么容易遇到精神大款，我们只说小伙和妹子。</p>
+<p>一个穷人，加上强大的逻辑，知道等于什么吗？等于这个人的生活是非常的朴素，一切都追求效率。把形式主义的花花肠子尽可能的压缩。</p>
+<p>而这，是消费主义的头号敌人。</p>
+<p>那么消费主义的主要支持者是什么人</p>
+<p>女人，而且是年轻女孩。</p>
+<p>女孩的富养，和男孩的穷养，无形中变成了形式主义和实用主义之间的对抗。</p>
+<p><em>（题外话吐槽一下，”女孩要富养，不然会被蝇头小利骗走”这个说法，我小时候才听到的时候就觉得不对劲，竟然不是让女孩学会目光长远，而是让她需要更大利益才会屈服！天才般的思路…..）</em></p>
+<p>对抗就对抗吧，但是注意一开始说的那些，此时我们的两种党派之间的现况是，男性觉得自己自娱自乐就行了，搞别的太不容易了；女性会觉得自己要更加努力，这个时代找到好老公的太多了。</p>
+<p>所以这就不是一般对抗了，而是互不容忍了。男人会觉得你们追求那些虚的有什么意思，女人会觉得你们这些男人一个个都不上进。</p>
+<p>现在你是一个精神小伙，你怎么主动？</p>
+<p>你一主动，你就发现阻拦你追求妹子的唯一障碍就是钱。</p>
+<p>而且花钱就算了，还不是一次性的，这是消费观念的巨大差异。</p>
+<p>你觉得我既然没钱，我少追求些梦幻的东西不就完了，但是妹子不干，妹子是要先满足她的追求，没钱就去赚。</p>
+<p>这，是比什么南拳女拳更直接强力的围栏，这是男人疲软的根结。</p>
+<hr>
+<p>男人不想动，女人想过得好，所以追一个女人就是买一辆好车，你买得来养不起。</p>
+<p>而理论上，既然男人疲软，唇亡齿寒女人是不会好过的，理论上应该是女人忽悠男人为自己卖命的时代来了。</p>
+<p>但是女人也不忽悠，就等王子来追自己。</p>
+<p>理论上讲，如果我们的流言盛行女朋友有多好多好，找了女朋友的男人有多幸福，男人就会动了。</p>
+<p>但是我们有的，是找女朋友幸不幸福，男人都懂的。想不想找看自己。</p>
+<p>所以这个是根结啊，其他的都是假的。</p>
+<p>历史上，都是男人不想动，女人要求男人提供资源，这是自然规律。</p>
+<p>所以自然进化出了好色的男人，和丰满的女人来建立起交易关系。</p>
+<p>现在这招不好使了，又没有新招，所以男人又回归不想动了而已。</p>
+<p>我也是长大了才无奈又喜感的发现，男人的好色，居然是一种重要的钥匙，没有这一环，很多东西都串不起来。</p>
+<p>一个男人如果不好色， 女人你完了，你想要让这个男人对你感兴趣，有你罪受的。</p>
+<p>当然男人也不是不好色了，我觉得只要没被阉割男人是摆脱不掉这一诅咒了。主要还是因为现在社会有大量的麻醉剂可以麻痹自己。</p>
+<p>比如二次元妹子。</p>
+<p>而有意思的是，正是男人乐于沉迷二次元这种自娱自乐的小世界，才导致男人不想动；而又正是女人不喜欢这种和现实世界的隔离，才导致女人有各种现实追求。</p>
+<p>这是相辅相成的，男人从虚拟世界出来，或者女人进到虚拟世界里面，都会让大家又在同一个世界。</p>
+<p>唯独一个在里一个在外，是互相绝缘的。</p>
+<br />
+
+        </div>
+
+        
+
+        
+
+        
+  <div class="recommended-article px-2 sm:px-6 md:px-8">
+   <div class="recommended-desktop">
+    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+    </div>
+    <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/08/31/daily/2024/2024-07-18-brief comment/" title="我收藏的短评01" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="我收藏的短评01" class="!max-w-none">
+  <span class="title">我收藏的短评01</span>
+</a><a class="recommended-article-item" href="/2024/08/31/about/" title="Welcome，在这里你可以初步认识我" rel="bookmark">
+  <img src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310518493.jpg" alt="Welcome，在这里你可以初步认识我" class="!max-w-none">
+  <span class="title">Welcome，在这里你可以初步认识我</span>
+</a><a class="recommended-article-item" href="/2024/08/31/tech/IOT/2024-05-16-JavaScript-mqtt-temperaturedemo/" title="IoT技术选型及模型设计的思考" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IoT技术选型及模型设计的思考" class="!max-w-none">
+  <span class="title">IoT技术选型及模型设计的思考</span>
+</a></div>
+   </div>
+   <div class="recommended-mobile">
+   <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+   </div>
+   <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/08/31/daily/2024/2024-07-18-brief comment/" title="我收藏的短评01" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="我收藏的短评01" class="!max-w-none">
+  <span class="title">我收藏的短评01</span>
+</a><a class="recommended-article-item" href="/2024/08/31/about/" title="Welcome，在这里你可以初步认识我" rel="bookmark">
+  <img src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310518493.jpg" alt="Welcome，在这里你可以初步认识我" class="!max-w-none">
+  <span class="title">Welcome，在这里你可以初步认识我</span>
+</a></div>
+   </div>
+  </div>
+
+        
+            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
+                
+                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+                        <a class="prev"
+                        rel="prev"
+                        href="/2024/11/06/tech/2024-11-6-IP/"
+                        >
+                            <span class="left arrow-icon flex justify-center items-center">
+                                <i class="fa-solid fa-chevron-left"></i>
+                            </span>
+                            <span class="title flex justify-center items-center">
+                                <span class="post-nav-title-item">机场套餐，开出多个指纹浏览器环境的教程</span>
+                                <span class="post-nav-item">上一篇</span>
+                            </span>
+                        </a>
+                    </div>
+                
+                
+                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+                        <a class="next"
+                        rel="next"
+                        href="/2024/10/23/daily/2024/2024-10-22-BTCdiary01-Compulsory%20position/"
+                        >
+                            <span class="title flex justify-center items-center">
+                                <span class="post-nav-title-item">2024.10.22交易员日记01-关于BTC的预测</span>
+                                <span class="post-nav-item">下一篇</span>
+                            </span>
+                            <span class="right arrow-icon flex justify-center items-center">
+                                <i class="fa-solid fa-chevron-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                
+            </div>
+        
+
+
+        
+    </div>
+
+    
+        <div class="toc-content-container">
+            <div class="post-toc-wrap">
+    <div class="post-toc">
+        <div class="toc-title">此页目录</div>
+        <div class="page-title">为什么现在的男生都不主动了呢？</div>
+        
+
+    </div>
 </div>
+        </div>
+    
+</div>
+
+
 
                 
 
@@ -850,6 +906,23 @@
         </div>
     </div>
 
+    
+        <div class="post-tools">
+            <div class="post-tools-container">
+    <ul class="article-tools-list">
+        <!-- TOC aside toggle -->
+        
+            <li class="right-bottom-tools page-aside-toggle">
+                <i class="fa-regular fa-outdent"></i>
+            </li>
+        
+
+        <!-- go comment -->
+        
+    </ul>
+</div>
+
+        </div>
     
 
     <div class="right-side-tools-container">
