@@ -332,15 +332,13 @@ h1 {
 复制输入到控制台后，按*启动。   
 <small>丢刀后，对准刀按F1切换为蝴蝶刀，F3开启飞行</small>
 
-<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>点击查看更多 </summary>
+<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>展开查看 </summary>
               <div class='content'>
               <p>bind “F3” “noclip”;bind p “bot_place 1”;bind “F1” “subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;”;bind “kp_multiply” “sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;”</p>
               </div>
             </details>
 
-<details>
-<summary>展开查看</summary>
-bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weapon_molotov;give weapon_smokegrenade;give weapon_flashbang;";bind "kp_multiply" "sv_cheats 1;ammo_grenade_limit_total 50;ammo_grenade_limit_default 2;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 99999;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_grenade_trajectory_prac_pipreview 1;sv_infinite_ammo 1;bot_stop 1;sv_cheats true;mp_drop_knife_enable true;sv_regeneration_force_on 1;mp_respawn_on_death_ct 1;mp_respawn_on_death_t 1;mp_restartgame 1;"</details>  
+
 
 <br>
 
@@ -365,7 +363,7 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
 <p>按照顺序输入</p>
 <p>指令1: <code>mp_randomspawn 1</code>随机刷新</p>
 <p>指令2: <code>mp_restartgame 1</code> 重开游戏</p>
-<h3 id="启动项："><a href="#启动项：" class="headerlink" title="启动项："></a>启动项：</h3><p>-novid +r_fullscreen_gamma 2.6 -highpriority -nojoy -console Windowed -w 1920 -h 1440</p>
+<h3 id="启动项："><a href="#启动项：" class="headerlink" title="启动项："></a>启动项：</h3><p>+exec zx&#x2F;gp -novid +r_fullscreen_gamma 2.6 -highpriority -nojoy -console Windowed -w 1920 -h 1440</p>
 <ul>
 <li><p>-novid：跳过开场动画</p>
 </li>
@@ -391,6 +389,7 @@ bind "F3" "noclip";bind p "bot_place 1";bind "F1" "subclass_change 515;give weap
                      data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231711364.png"
                       alt="730"
                 ><figcaption>730</figcaption></figure></p>
+<p><a class="link"   href="https://curtisyan.lanzn.com/iWyVJ2m2cllg" >下载入口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
       <categories>
         <category>游戏</category>
@@ -925,7 +924,7 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
 从上面BTC今日下跌可以看出最近BTC的价格可能由于购买量低迷而大幅下跌，最低可能触及35,720美元。
 我个人认为当前的市场处于看跌状态，可能有大规模投资者——鲸鱼——正在操纵市场的现象。
 
-<h4 id="但我还是认为BTC今年底突破8W美元，有很多人预测年底到10W，但我觉得今年年底达到8W的概率超级大，有可能到不了10W"><a href="#但我还是认为BTC今年底突破8W美元，有很多人预测年底到10W，但我觉得今年年底达到8W的概率超级大，有可能到不了10W" class="headerlink" title="但我还是认为BTC今年底突破8W美元，有很多人预测年底到10W，但我觉得今年年底达到8W的概率超级大，有可能到不了10W"></a>但我还是认为BTC今年底突破8W美元，有很多人预测年底到10W，但我觉得今年年底达到8W的概率超级大，有可能到不了10W</h4>]]></content>
+<h4 id="但我还是认为BTC今年底突破10W美元"><a href="#但我还是认为BTC今年底突破10W美元" class="headerlink" title="但我还是认为BTC今年底突破10W美元"></a>但我还是认为BTC今年底突破10W美元</h4>]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
