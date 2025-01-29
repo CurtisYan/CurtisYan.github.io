@@ -363,7 +363,7 @@ h1 {
 <p>按照顺序输入</p>
 <p>指令1: <code>mp_randomspawn 1</code>随机刷新</p>
 <p>指令2: <code>mp_restartgame 1</code> 重开游戏</p>
-<h3 id="启动项："><a href="#启动项：" class="headerlink" title="启动项："></a>启动项：</h3><p>+exec zx&#x2F;gp -novid +r_fullscreen_gamma 2.6 -highpriority -nojoy -console Windowed -w 1920 -h 1440</p>
+<h3 id="启动项："><a href="#启动项：" class="headerlink" title="启动项："></a>启动项：</h3><p><code>-novid +r_fullscreen_gamma 2.6 -highpriority -nojoy -console Windowed -w 1920 -h 1440</code></p>
 <ul>
 <li><p>-novid：跳过开场动画</p>
 </li>
@@ -389,7 +389,7 @@ h1 {
                      data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231711364.png"
                       alt="730"
                 ><figcaption>730</figcaption></figure></p>
-<p><a class="link"   href="https://curtisyan.lanzn.com/iWyVJ2m2cllg" >下载入口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><a class="link"   href="https://curtisyan.lanzn.com/if1392m8b7ta" >下载入口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
       <categories>
         <category>游戏</category>
