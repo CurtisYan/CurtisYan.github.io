@@ -73,7 +73,7 @@ h1 {
 </style>
 
 <h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><blockquote>
-<p>  在访问别人博客的时候，我经常去看别人的“关于”页面，所以我自己的博客，当然要有一个关于页面。于是我把关于页面放在首页。<br>玩博客，难免会涉及到生活、计算机、编程、技巧、域名等等，作为技术爱好，把自己折腾这些的过程写下来，既是自己的备忘录，也许也可以给其他人提供点参考。<br>作为一个佛系博主，不在乎多少的访问量，不在乎多少的广告收益，没有任何压力。<br>嗯，说写就写。</p>
+<p>  在访问别人博客的时候，我经常去看别人的“关于”页面，所以我自己的博客，当然要有一个关于页面。于是我把关于页面放在首页。<br>玩博客，难免会涉及到生活、计算机、编程、技巧、域名等等，作为技术爱好，把自己折腾这些的过程写下来，既是<strong>自己的备忘录</strong>，也许也可以给其他人提供点参考。<br>作为一个佛系博主，不在乎多少的访问量，不在乎多少的广告收益，没有任何压力。<br>嗯，说写就写。</p>
 </blockquote>
 <details class="orange" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>请我喝杯咖啡☕️ </summary>
               <div class='content'>
@@ -389,7 +389,7 @@ h1 {
                      data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406231711364.png"
                       alt="730"
                 ><figcaption>730</figcaption></figure></p>
-<p><a class="link"   href="https://curtisyan.lanzn.com/if1392m8b7ta" >下载入口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><a class="link"   href="https://curtisyan.lanzn.com/i64xj2niwbah" >下载入口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
       <categories>
         <category>游戏</category>
@@ -1175,6 +1175,29 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
       </categories>
       <tags>
         <tag>BTC; 币圈 ; 牛市</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无限白嫖免费AI代码编辑器Cursor</title>
+    <url>/2025/02/11/tech/2025-02-11-use%20Cursor%20for%20free/</url>
+    <content><![CDATA[<blockquote>
+<p>对于不想花钱使用Cursor的用户来说，利用邮箱白嫖Cursor也是可以的。但是在使用多个邮箱体验后，Cursor会提示该设备体验套餐已用完，于是我们可以修改机器码来达到无限白嫖Cursor的效果</p>
+</blockquote>
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="修改机器码文件下载链接"><a href="#修改机器码文件下载链接" class="headerlink" title="修改机器码文件下载链接"></a>修改机器码文件下载链接</h2><p><a class="link"   href="https://github.com/fly8888/cursor_machine_id" >点击下载 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<ul>
+<li><p>支持 Windows、macOS和 Linux 系统</p>
+</li>
+<li><p>提供 Shell 脚本和 Python 脚本两种实现方式</p>
+</li>
+</ul>
+<h3 id="另外还有无限注册邮箱的方法"><a href="#另外还有无限注册邮箱的方法" class="headerlink" title="另外还有无限注册邮箱的方法"></a>另外还有无限注册邮箱的方法</h3><p><a class="link"   href="https://t.co/sR88uPfgCV" >方法1（失效请使用方法2） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><a class="link"   href="https://t.co/y7Rr4C1eaw" >方法2 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>Cursor</tag>
       </tags>
   </entry>
 </search>
