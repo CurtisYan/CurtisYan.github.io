@@ -1200,4 +1200,122 @@ TrafficMonitor 提供了普通版和 Lite 版两种版本可用。普通版包�
         <tag>Cursor</tag>
       </tags>
   </entry>
+  <entry>
+    <title>粒子流动的艺术：Particular Drift 初体验</title>
+    <url>/2025/03/02/daily/2025/Particular%20Drift/</url>
+    <content><![CDATA[<blockquote>
+<p>最近发现了一个有趣的开源工具 <a class="link"   href="https://collidingscopes.github.io/particular-drift/" >Particular Drift <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，它能将普通图片转化为流动的粒子动画，效果相当惊艳。</p>
+</blockquote>
+<h2 id="工具特点"><a href="#工具特点" class="headerlink" title="工具特点"></a>工具特点</h2><ul>
+<li><strong>完全免费开源</strong>：MIT许可证，无付费墙</li>
+<li><strong>操作简单</strong>：上传图片，调整参数即可</li>
+<li><strong>参数丰富</strong>：可调整颜色、粒子速度、吸引力等</li>
+<li><strong>一键随机</strong>：点击🎲按钮随机生成效果</li>
+<li><strong>导出方便</strong>：支持图片和视频导出</li>
+</ul>
+<h2 id="个人体验"><a href="#个人体验" class="headerlink" title="个人体验"></a>个人体验</h2><p>第一次尝试时，我上传了一张肖像照，然后点击随机按钮。静态图像立刻变成了流动的粒子，仿佛赋予了照片生命力。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408310404202.jpeg"
+                      style="zoom:25%;"
+                >
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202503021338660.png"
+                      style="zoom: 33%;" 
+                ><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202503021342108.png"
+                      style="zoom:33%;" 
+                ><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202503021347419.png"
+                      style="zoom:33%;" 
+                >
+
+
+
+<p>当然，也可以做出视频效果</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202503021353195.mp4"
+                     
+                ></p>
+<p>我发现：</p>
+<ul>
+<li>增加吸引力会让粒子紧贴图像边缘</li>
+<li>提高速度则让粒子更自由地流动</li>
+<li>调整流场参数能创造出类似风或水的自然运动</li>
+</ul>
+<h2 id="实用场景"><a href="#实用场景" class="headerlink" title="实用场景"></a>实用场景</h2><ul>
+<li>社交媒体个性化内容</li>
+<li>个人艺术创作</li>
+<li>演示文稿动态元素</li>
+<li>网站背景效果</li>
+</ul>
+<h2 id="小技巧"><a href="#小技巧" class="headerlink" title="小技巧"></a>小技巧</h2><ol>
+<li>选择对比度强的图像效果更好</li>
+<li>不确定时多点几次随机按钮</li>
+<li>使用”c”快捷键快速切换颜色方案</li>
+<li>“r”键随机所有参数，”v”键开始&#x2F;停止录制</li>
+</ol>
+<p>这个工具完全在客户端运行，上传的图片不会被保存在服务器上，可以放心使用。如果你也喜欢探索创意工具，不妨试试这个有趣的小玩意！</p>
+]]></content>
+      <categories>
+        <category>工具, 前端</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025.3.2交易日记04：比特币与以太坊的市场观察</title>
+    <url>/2025/03/02/daily/2025/2025-03-02-BTCdiary04/</url>
+    <content><![CDATA[<h2 id="比特币牛回形态分析"><a href="#比特币牛回形态分析" class="headerlink" title="比特币牛回形态分析"></a>比特币牛回形态分析</h2><p>近期比特币市场引人关注，要判断比特币是否能走出日线级别的牛回，需要满足几个关键条件：</p>
+<ol>
+<li><strong>价格低点不跌破</strong> - 守住前期低点是反转的基础</li>
+<li><strong>回调不过深</strong> - 保持合理的回调幅度</li>
+<li><strong>均线多头排列</strong> - 价格站上均线组并形成多头排列</li>
+</ol>
+<p>最典型的参考案例是2020年8月至10月的走势。市场经历一波下跌后，回调时守住前低的关键位置，价格形态从”高低点主部降低”变为”高低点底部抬高”，均线开始多头排列，最终确认反转。</p>
+<h3 id="短线操作需谨慎"><a href="#短线操作需谨慎" class="headerlink" title="短线操作需谨慎"></a>短线操作需谨慎</h3><p>值得注意的是，日线级别的结构变化不会一蹴而就，至少需要一段整理、构建和简便的过程。短线波动中，价格必须经历反复多轮测试，不要期望一天内就能完成转变。</p>
+<h3 id="关键支撑位分析"><a href="#关键支撑位分析" class="headerlink" title="关键支撑位分析"></a>关键支撑位分析</h3><p>目前市场关键支撑位分析：</p>
+<ul>
+<li>大户清仓位置在76500附近</li>
+<li>关键均线支撑需要反复测试，EMA21均线不破为佳</li>
+<li>如果跌破支撑，下一个关注位置是83000</li>
+</ul>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202503021240648.png"
+                      style="zoom: 33%;" 
+                >
+
+<h2 id="以太坊投资策略"><a href="#以太坊投资策略" class="headerlink" title="以太坊投资策略"></a>以太坊投资策略</h2><p>关于以太坊，我再次买入了ETH，值得注意的是：</p>
+<ul>
+<li>价格已回到拉升起点，处于AVE 50-50区间</li>
+<li>此位置已具备反弹条件</li>
+</ul>
+<h3 id="投资建议"><a href="#投资建议" class="headerlink" title="投资建议"></a>投资建议</h3><ol>
+<li><strong>分批建仓</strong> - 在关键位置开始建仓，采用分批策略</li>
+<li><strong>避免满仓</strong> - 不要一次性重仓，预留资金应对波动</li>
+<li><strong>接受回调</strong> - 买入后价格可能还会下跌20%，这是完全正常的</li>
+<li><strong>耐心等待</strong> - 等待价格走出完整结构</li>
+</ol>
+<p>记住：我们不是预测底部，而是在具备条件的位置开始布局，并耐心等待市场自己走出结构。短线交易需要反复测试过程，不是一错就了。</p>
+<p>最简单的建议是：现阶段避免在前期低点附近开空，风险收益比已经不合理。 </p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>BTC; 币圈 ; 熊市</tag>
+      </tags>
+  </entry>
 </search>
